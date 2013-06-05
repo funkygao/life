@@ -1,0 +1,1106 @@
+﻿.ads-b div,.ads-slots{margin:20px auto;}
+#home{}
+#home .main{float:left;width:630px;}
+#home .side{float:right;width:300px;overflow:hidden;}
+#home .side .user-profile{background:#f0f0f0;*zoom:1;}
+#home .side .user-profile .profile-basic{border-bottom:1px dotted #ccc;background:url(http://pic.liepin.com/images/v8/cadidate/home_profile_bg.png) left top no-repeat;padding-top:40px;}
+#home .side .user-profile-gold .profile-basic{background-position:right top;}
+#home .side .user-profile .profile-basic dl{padding:10px 10px 5px 10px;*zoom:1;}
+#home .side .user-profile .profile-basic dl:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#home .side .user-profile .profile-basic dl dt{float:left;width:90px;text-align:center;position:relative;}
+#home .side .user-profile .profile-basic dl dt .face-uploader{position:absolute;left:0;right:0;top:65px;width:90px;text-align:center;}
+#home .side .user-profile .profile-basic dl dd{margin-left:100px;padding:2px 0;font-size:14px;}
+#home .side .user-profile .profile-basic dl dd.name{margin-top:-6px;}
+#home .side .user-profile .profile-basic dl dd.name a{font-size:14px;font-weight:bold;background:url(http://pic.liepin.com/images/v8/icons/icon_modify.png) right center no-repeat;padding:5px 30px 5px 0;}
+#home .side .user-profile .profile-basic dl dd.privacy-set{text-align:right;font-size:12px;}
+#home .side .user-profile .profile-goldcard{padding:20px 10px 30px;background:url("http://pic.liepin.com/images/v8/cadidate/home_profile_shadow.png") center bottom no-repeat;}
+#home .side .user-profile .profile-goldcard a.btn-tobe-gold{display:block;margin:0 auto;text-indent:-1000em;width:180px;height:39px;background:url(http://pic.liepin.com/images/v8/buttons/btn_update_gold.png);overflow:hidden;}
+#home .side .user-profile .profile-goldcard .goldcard-tab{width:270px;margin:10px auto;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul{*zoom:1;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li{float:left;display:inline;margin:0 3px;width:39px;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li a{display:block;position:relative;height:39px;text-indent:-1000em;overflow:hidden;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/icon_mini_tabs_bg.png);}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li a em{position:absolute;width:16px;height:16px;right:0;bottom:0;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li.noset a em{background:url(http://pic.liepin.com/images/v8/icons/icon_exclamation_red.gif);}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li a.assist{background-position:0 0;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li a.contact{background-position:-40px 0;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li a.setup{background-position:-80px 0;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li a.group{background-position:-120px 0;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li a.promotion{background-position:-160px 0;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li a.mbti{background-position:-200px 0;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li a.consult{background-position:-240px 0;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li.disable a.group{background-position:-120px -40px;}
+#home .side .user-profile .profile-goldcard .goldcard-tab ul li.disable a.consult{background-position:-240px -40px;}
+#home .side .resume-info{padding:5px 15px;background-color:#f0f0f0;}
+#home .side .resume-info h2{border-bottom:1px solid #fff;line-height:26px;background:url(http://pic.liepin.com/images/v8/icons/arrows.png) left center no-repeat;padding-left:25px;}
+#home .side .resume-info .resume-list{}
+#home .side .resume-info .resume-list ul{margin:1em 0 1em 2.5em;}
+#home .side .resume-info .resume-list ul li{line-height:28px;position:relative;}
+#home .side .resume-info .resume-list ul li em.default{position:absolute;margin-left:-2.5em;}
+#home .side .resume-info .resume-list ul li a.resume-name{font-size:14px;padding:2px 0 2px 1.5em;margin-right:10px;background-position:left center;background-repeat:no-repeat;}
+#home .side .resume-info .resume-list ul li a.chinese{background-image:url(http://pic.liepin.com/images/v8/icons/icon_lang_cn.gif);}
+#home .side .resume-info .resume-list ul li a.english{background-image:url(http://pic.liepin.com/images/v8/icons/icon_lang_en.gif);}
+#home .side .resume-info .resume-list ul li .finish-rate{display:inline-block;vertical-align:middle;margin:5px 10px 5px 0;}
+#home .side .resume-info .resume-list ul li .finish-rate .progress{display:inline-block;border:1px solid #1c8c2e;height:12px;width:80px;margin-right:5px;vertical-align:text-bottom;overflow:hidden;}
+#home .side .resume-info .resume-list ul li .finish-rate .progress em{float:left;height:12px;background:url(http://pic.liepin.com/images/v8/progress.gif) left center repeat-x;overflow:hidden;}
+#home .side .resume-info .resume-list ul li .resume-status{}
+#home .side .resume-info .resume-list ul li .status-passed{color:#090;}
+#home .side .resume-info .resume-list ul li .status-draft,
+#home .side .resume-info .resume-list ul li .status-updating{color:#e75c00;}
+#home .side .resume-info .resume-list ul li .status-not-passed{color:#f00;}
+#home .side .resume-info .resume-list ul li.resume-button{margin:5px 0;}
+#home .side .resume-info .resume-list ul li.resume-button a.btn-ui{margin:10px 0 10px 45px;}
+#home .side .user-elite{margin-top:20px;border:1px solid #5fa1eb;padding:10px;}
+#home .side .user-elite h2{border-bottom:1px solid #ccc;line-height:26px;background:url(http://pic.liepin.com/images/v8/icons/arrows.png) left center no-repeat;padding-left:25px;}
+#home .side .user-elite h2 a.more{float:right;font-size:12px;font-weight:normal;}
+#home .side .user-elite .content{width:278px;padding: 10px 0;overflow:hidden;}
+#home .side .user-elite .content .count{font-size:14px;text-align:center;}
+#home .side .user-elite .content .slide-box{width:100em;}
+#home .side .user-elite .content .slide-box table tr td{width:280px;vertical-align:top;}
+#home .side .user-elite .content .slide-box table tr td ul li{}
+#home .side .user-elite .content .slide-box table tr td ul li dl{border-bottom:1px dotted #ccc;padding:5px 0;margin-left:10px;*zoom:1;}
+#home .side .user-elite .content .slide-box table tr td ul li dl:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#home .side .user-elite .content .slide-box table tr td ul li dl dt{float:left;text-align:center;width:60px;margin-top:5px;}
+#home .side .user-elite .content .slide-box table tr td ul li dl dt img{display:block;margin:0 auto;}
+#home .side .user-elite .content .slide-box table tr td ul li dl dt a.btn_attention{margin:3px 0;}
+#home .side .user-elite .content .slide-box table tr td ul li dl dd{margin-left:68px;}
+#home .side .user-elite .content .slide-box table tr td ul li dl dd .operate-num{float:left;}
+#home .side .user-elite .content .slide-box table tr td ul li dl dd a.btn_attention{float:right;margin:0 4px;}
+#home .side .user-elite .content .slide-box table tr td ul li dl dd a.link-ui-message{float:left;}
+#home .side .user-elite .content .slide-box table tr td ul li dl dd a.link-ui-phone{float:right;margin-right:5px;}
+#home .side .user-elite .content .slide-box-controller{margin-top:10px;text-align:center;}
+#home .side .user-elite .content .slide-box-controller em{display:inline-block;width:9px;height:9px;margin:0 2px;background:url(http://pic.liepin.com/images/v8/icons/icon_horizontal_scroll.png) left -10px;overflow:hidden;cursor:pointer;}
+#home .side .user-elite .content .slide-box-controller em.on{background-position:left top;}
+#home .side .user-elite .content .elite-help{margin-left:1em;}
+#home .main .feeds{}
+#home .main .feeds .loading{background:#fff url(http://pic.liepin.com/images/v8/icons/loading_tiny.gif) center center no-repeat;height:30px;}
+#home .main .feeds .feed-tips{margin:10px 0;background-color:#ffffe5;padding:2px 5px;text-align:center;border:1px solid #ccc;}
+#home .main .feeds .feed-tips a{color:#e75c00;}
+#home .main .feeds .notice-box{margin:10px 0;background-color:#f0f0f0;padding:2px 5px;text-align:center;font-size:14px;}
+#home .main .feeds .feed-recommendjob{}
+#home .main .feeds .feed-recommendjob .order-bar{margin-top:10px;font-size:14px;text-align:right;}
+#home .main .feeds .feed-recommendjob .order-bar a{margin:0 5px;}
+#home .main .feeds .feed-recommendjob .feed-list .feed,
+#home .main .feeds .feed-recommendjob .feed-list .feed dl,
+#home .main .feeds .feed-recommendjob .feed-list .feed dl dd ul{*zoom:1;}
+#home .main .feeds .feed-recommendjob .feed-list .feed:after,
+#home .main .feeds .feed-recommendjob .feed-list .feed dl:after,
+#home .main .feeds .feed-recommendjob .feed-list .feed dl dd ul:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#home .main .feeds .feed-recommendjob .feed-list .feed{padding:10px 0;border-bottom:1px dotted #333;}
+#home .main .feeds .feed-recommendjob .feed-list .feed dl{width:510px;float:left;}
+#home .main .feeds .feed-recommendjob .feed-list .feed dl dd h4 .timestamp{margin-left:10px;font-weight:normal;font-size:12px;color:gray;}
+#home .main .feeds .feed-recommendjob .feed-list .feed dl dd h4 a{}
+#home .main .feeds .feed-recommendjob .feed-list .feed dl dd h4 a:visited{color:#800080;}
+#home .main .feeds .feed-recommendjob .feed-list .feed dl dd .job-basic{line-height:35px;font-size:14px;}
+#home .main .feeds .feed-recommendjob .feed-list .feed dl dd .job-basic .salary{color:#e75c00;font-size:23px;margin-right:20px;}
+#home .main .feeds .feed-recommendjob .feed-list .feed dl dd ul{}
+#home .main .feeds .feed-recommendjob .feed-list .feed dl dd ul li{float:left;width:250px;}
+#home .main .feeds .feed-recommendjob .feed-list .feed .matching{float:right;width:100px;padding-top:10px;color:#999;text-align:center;}
+#home .main .feeds .feed-recommendjob .feed-list .feed .matching .match-left,
+#home .main .feeds .feed-recommendjob .feed-list .feed .matching .match-right{height:90px;border-top:1px solid #eaeaea;border-bottom:1px solid #eaeaea;width:10px;}
+#home .main .feeds .feed-recommendjob .feed-list .feed .matching .match-left{float:left;border-left:1px solid #eaeaea;}
+#home .main .feeds .feed-recommendjob .feed-list .feed .matching .match-right{float:right;border-right:1px solid #eaeaea;}
+#home .main .feeds .feed-recommendjob .feed-list .feed .matching .match-title{font-size:14px;margin-top:-10px;}
+#home .main .feeds .feed-recommendjob .intention-form{font-size:14px;}
+#home .main .feeds .feed-recommendjob .intention-form table{}
+#home .main .feeds .feed-recommendjob .intention-form table th,
+#home .main .feeds .feed-recommendjob .intention-form table td{padding:5px 2px;}
+#home .main .feeds .feed-recommendjob .intention-form table th{text-align:right;width:120px;font-weight:normal;}
+
+#home .main .feeds .feed-connection{}
+#home .main .feeds .feed-connection .manage-bar{margin-top:10px;text-align:right;font-size:14px;}
+#home .main .feeds .feed-connection .feed-list .feed{padding:10px 0;border-bottom:1px dotted #ccc;}
+#home .main .feeds .feed-connection .feed-list .feed dl{*zoom:1;}
+#home .main .feeds .feed-connection .feed-list .feed dl:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#home .main .feeds .feed-connection .feed-list .feed dl dt{float:left;width:80px;text-align:center;}
+#home .main .feeds .feed-connection .feed-list .feed dl dt img{display:block;margin:0 auto;}
+#home .main .feeds .feed-connection .feed-list .feed dl dd{font-size:14px;}
+#home .main .feeds .feed-connection .feed-list .feed dl dd .action-name{font-size:12px;margin-right:4px;}
+#home .main .feeds .feed-connection .feed-list .feed dl dd.timestamp{text-align:right;font-size:12px;color:gray;}
+#home .main .feeds .feed-connection .feed-list .feed dl dd a.survey{display:block;background:url(http://pic.liepin.com/images/v8/cadidate/feed_survey.png);width:201px;height:44px;text-indent:-1000em;overflow:hidden;}
+#home .main .feeds .feed-connection .feed-list .feed dl dd .salary{float:right;}
+#home .main .feeds .feed-connection .feed-list .feed dl dd .salary strong{color:#e75c00;font-size:23px;margin:0 4px;}
+#home .main .feeds .feed-connection-promotion{}
+#home .main .feeds .feed-connection-promotion .promotion-box{margin:10px 0;font-size:14px;padding:10px 0;text-align:center;border-bottom:1px dotted #ccc;}
+#home .main .feeds .feed-connection-promotion .promotion-title{font-size:14px;margin:10px 0;}
+#home .main .feeds .feed-connection-promotion .promotion-list{}
+#home .main .feeds .feed-connection-promotion .promotion-list ul,
+#home .main .feeds .feed-connection-promotion .promotion-list ul li dl{*zoom:1;}
+#home .main .feeds .feed-connection-promotion .promotion-list ul:after,
+#home .main .feeds .feed-connection-promotion .promotion-list ul li dl:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#home .main .feeds .feed-connection-promotion .promotion-list ul li{width:310px;margin:10px 0;float:left;}
+#home .main .feeds .feed-connection-promotion .promotion-list ul li dl{}
+#home .main .feeds .feed-connection-promotion .promotion-list ul li dl dt{float:left;width:100px;text-align:center;}
+#home .main .feeds .feed-connection-promotion .promotion-list ul li dl dt input{float:left;}
+
+#home .main .feeds .feed-callrecords-notgold{margin:20px 0;}
+#home .main .feeds .feed-callrecords-notgold h2{text-align:center;font-size:18px;color:#e75c00;line-height:50px;}
+#home .main .feeds .feed-callrecords-notgold .help-box{text-align:center;font-size:14px;padding:20px;background:url(http://pic.liepin.com/images/v8/cadidate/feed_callrecords_notgold_bg.png) left bottom repeat-x;border:1px solid #c2ad7a;}
+#home .main .feeds .feed-callrecords-notgold .help-box .expire-note{color:#999;font-family:"\5fae\8f6f\96c5\9ed1";font-size:24px;}
+#home .main .feeds .feed-callrecords-notgold .help-box .expire-note a.btn-goldcard-renewal{margin-left:20px;}
+#home .main .feeds .feed-callrecords-notgold .help-box .expire-note .days{color:#e75c00;font-size:45px;margin:0 5px;font-weight:bold;}
+#home .main .feeds .feed-callrecords-notgold a.btn-goldcard-renewal{display:inline-block;background:url(http://pic.liepin.com/images/v8/buttons/btn_renewal_gold.png);width:121px;height:39px;overflow:hidden;margin:10px auto;vertical-align:middle;}
+#home .main .feeds .feed-callrecords-notgold a.btn-goldcard-update{display:block;background:url(http://pic.liepin.com/images/v8/buttons/btn_update_gold.png);width:180px;height:39px;text-indent:-1000em;overflow:hidden;margin:10px auto;}
+#home .main .feeds .feed-callrecords-notgold .assist-box{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/icon_authority_400.png) left center no-repeat;}
+#home .main .feeds .feed-callrecords-notgold .assist-box dl{margin-left:130px;font-size:14px;}
+#home .main .feeds .feed-callrecords-notgold .assist-box dl dt{font-size:14px;font-weight:bold;color:#e75c00;}
+#home .main .feeds .feed-callrecords-notgold .assist-box dl dd{color:#999;line-height:26px;}
+#home .main .feeds .feed-callrecords-notime{margin:20px 0;}
+#home .main .feeds .feed-callrecords-notime #consult .consult-pay .pay-form{float:none;width:360px;margin:0 auto;}
+#home .main .feeds .feed-callrecords-notime #consult .consult-pay .pay-form h2{font-weight:normal;text-align:center;}
+#home .main .feeds .feed-callrecords{}
+#home .main .feeds .feed-callrecords .search-bar{margin:10px 0;position:relative;_zoom:1;}
+#home .main .feeds .feed-callrecords .search-bar .input-text{margin:0 2px;}
+#home .main .feeds .feed-callrecords .search-bar .user-name{width:40px;}
+#home .main .feeds .feed-callrecords .search-bar .user-id{width:40px;}
+#home .main .feeds .feed-callrecords .search-bar .btn-ui em{padding:0 10px 0 7px;}
+
+#searchbox{background-color:#f7f7f7;padding:10px 15px;line-height:24px;}
+#searchbox a{color:#0041de;}
+#searchbox a:hover{color:#ef6100;}
+#searchbox.search_enterprise{background:#e7f2f7 url(http://pic.liepin.com/images/v8/cadidate/searchbox_bg.png) left top repeat-x;border:1px solid #aacde0;}
+#searchbox.search_enterprise form{padding:10px;}
+#searchbox{font-size:14px;}
+#searchbox.search_hunter{font-size:12px;}
+#searchbox.search_hunter form.form_basic{float:left;width:670px;border-right:2px solid #fff;}
+#searchbox.search_hunter form.form_hid{margin-left:690px;}
+#searchbox.search_hunter form.form_hid ul li{padding:2px 0;}
+#searchbox dl{margin-top:5px;}
+#searchbox dl dt,
+#searchbox dl dd{padding:2px 0;}
+#searchbox dl dt{float:left;clear:left;width:140px;text-align:right;}
+#searchbox dl dd{margin-left:140px;}
+#searchbox dl dd ul li{float:left;display:inline;margin:0 5px;}
+#searchbox dl dd ul li.cd{display:none;}
+#searchbox dl dd ul li.current{display:inline;}
+#searchbox dl dd ul li.current a{font-weight:bold;color:#ef6100;}
+#searchbox dl dd ul li a{white-space:nowrap;}
+#job_result,
+#hunter_result,
+#enterprise_result{margin-top:10px;}
+#job_result .result-list,
+#hunter_result .result-list,
+#hunter_result .view-history,
+#enterprise_result .result-list{float:left;line-height:25px;}
+#job_result .result-list{width:770px;}
+#hunter_result .result-list,
+#hunter_result .view-history,
+#enterprise_result .result-list{width:640px;}
+#job_result .result-list .list-head,
+#hunter_result .result-list .list-head,
+#enterprise_result .result-list .list-head{background:#efefef;padding:2px 15px;}
+#enterprise_result .result-list .list-head{padding:2px 15px;}
+#job_result .result-list .list-head .pager,
+#hunter_result .result-list .list-head .pager{margin:4px 0;}
+#job_result .result-list .list-head a.page-current,
+#hunter_result .result-list .list-head a.page-current{font-weight:bold;color:#e75c00;}
+#hunter_result .result-list-wrap{width:auto;float:none;}
+#job_result .result-list .list-head{margin-bottom:15px;}
+#job_result .result-list .list-head a.current{font-weight:bold;}
+#job_result .joblist-none{line-height:35px;padding:20px;font-size:14px;}
+#job_result .joblist-none ul{list-style-type:disc;list-type-position:out-side;margin-left:4em;}
+#job_result .joblist ul{}
+#job_result .joblist ul li h3{font-size:16px;color:#2C468C;font-family:"microsoft yahei"}
+#job_result .joblist ul li h3 span{font-size:12px;padding-left:20px;color:#aaaaaa;font-weight:normal;font-family:"宋体"}
+#job_result .joblist ul li a{display:block;padding:10px;border-bottom:1px dashed #ccc;color:#333;cursor:pointer;}
+#job_result .joblist ul li.elite a{background:#fef9ee url(http://pic.liepin.com/images/v8/icons/icon_elite_01.png) right top no-repeat;}
+#job_result .joblist ul li a:hover{background-color:#f8f8f8;}
+#job_result .joblist ul li a:hover h3{color:#ef6100;}
+#job_result .joblist ul li a:visited h3{color:#800080;}
+#job_result .joblist ul li ul li{float:left;margin-right:10px}
+#job_result .joblist ul li ul li.company{width:240px;}
+#job_result .joblist ul li ul li.city{width:150px;}
+#job_result .joblist ul li ul li.timestamp{width:140px;}
+#job_result .joblist ul li ul li.salary,
+#job_result .joblist ul li ul li.city span,
+#job_result .joblist ul li ul li.timestamp span{color:#999;}
+#job_result .joblist ul li ul li.salary{width:158px;text-align:right;}
+#job_result .joblist ul li ul li.salary .orange{vertical-align:bottom;font-size:25px;}
+#job_result .result-side,
+#hunter_result .result-side,
+#enterprise_result .result-side{float:right;}
+#job_result .result-side{width:170px;}
+#hunter_result .result-side,
+#enterprise_result .result-side{width:300px;}
+/* google ads */
+.google_168x80_list div,.google_248x75_list div{margin-bottom:10px;text-align:center;}
+.google_168x80_list div div,.google_248x75_list div div{margin:0;}
+.google_168x80_list div img,.google_248x75_list div img{display:block;}
+#job_result .result-side .box{border:1px solid #ccc;}
+#job_result .result-side .box .title-arrow{background-position:-158px -500px;line-height:30px;padding-left:18px;color:#3b5998;border-bottom:3px solid #2370a9;}
+#job_result .result-side .box .view-history{padding:5px;}
+#job_result .result-side .lt_ads div{margin:10px 0;}
+#hunter_result .hunterlist ul li{border-bottom:1px dashed #cecfce;padding:10px 0;}
+#hunter_result .hunterlist ul li.current{background-color:#f5f5f5;}
+#hunter_result .hunterlist ul li dl{zoom:1;}
+#hunter_result .hunterlist ul li dl dt{float:left;width:135px;text-align:center;line-height:24px; zoom:1;}
+#hunter_result .hunterlist ul li dl dd{margin-left:135px; zoom:1;}
+#hunter_result .hunterlist ul li dl dd .profile{line-height:30px; zoom:1;}
+#hunter_result .hunterlist ul li dl dd .new_jobs{float:right;width:200px;line-height:25px;}
+#hunter_result .result-side .list-praise h2 .icon-help{margin-left:5px;display:inline-block;background:url(http://pic.liepin.com/images/v8/icons/icon_help.png);width:14px;height:14px;overflow:hidden;cursor:pointer;}
+#hunter_result .result-side .list-top10{margin-bottom:10px;position:relative;background:#f7f3f7;border:1px solid #dedfde;}
+#hunter_result .result-side .list-top10 h2{font-size:14px;line-height:30px;padding:0 15px;}
+#hunter_result .result-side .list-top10 .icon{position:absolute;right:-2px;top:-2px;background:url(http://pic.liepin.com/images/v8/cadidate/icon_top10list.png);width:44px;height:44px;}
+#hunter_result .result-side .list-top10 .hunter-list,
+#hunter_result .result-side .list-top10 .label-list{background:#fff;margin:5px;padding:5px;}
+#hunter_result .result-side .list-top10 .hunter-list dl{margin:5px 0;line-height:19px;height:80px;}
+#hunter_result .result-side .list-top10 .hunter-list dl dt{float:left;width:60px;text-align:center;}
+#hunter_result .result-side .list-top10 .hunter-list dl dd{margin-left:75px;}
+#hunter_result .result-side .list-top10 .hunter-list dl dd .operate-num{float:left;}
+#hunter_result .result-side .list-top10 .hunter-list dl dd a.link-ui{float:right;}
+#hunter_result .result-side .list-top10 .label-list{height:130px;}
+#hunter_result .result-side .list-top10 .label-list a{color:#333;}
+#hunter_result .view-history{border:1px solid #dedfde;}
+#hunter_result .view-history .head{height:12px;overflow:hidden;background-position:0 -1414px;background-repeat:repeat-x;}
+#hunter_result .view-history .history{padding:10px 20px;}
+#hunter_result .view-history h2{font-size:14px;color:#9c0000;}
+#hunter_result .view-history dl{padding:10px 0;}
+#hunter_result .view-history dl dd{margin-left:2em;color:#666;}
+#hunter_result .view-history dl dd .red{color:#9c0000;}
+#enterprise_result .result-list dl{padding:25px 0;border-bottom:1px dashed #999;}
+#enterprise_result .result-list dl dt{float:left;width:100px;}
+#enterprise_result .result-list dl dd{margin-left:110px;}
+#enterprise_result .result-list dl dt table{width:100%;}
+#enterprise_result .result-list dl dt table td{height:34px;text-align:center;border:1px solid #ccc;}
+#enterprise_result .result-list dl dt table td a,
+#enterprise_result .result-list dl dt table td a img{display:block;margin:0 auto;}
+#enterprise_result .result-list dl dd h4{font-weight:normal;line-height:16px;margin-bottom:3px;}
+#enterprise_result .result-list dl dd .dot{padding:0 15px;}
+#enterprise_result .result-list dl dd .feed_photo_view{border:1px solid #ccc;padding:1px;}
+#enterprise_result .result-list dl dd .timesmap{font-size:12px;margin-left:20px;}
+#enterprise_result .result-list #hunter_result{border:1px solid #5e7837;}
+#enterprise_result .result-list #hunter_result h2{border-bottom:1px solid #5e7837;padding-left:15px;background:#e6fff0;font-size:14px;line-height:30px;}
+#enterprise_result .result-list #hunter_result .hunterlist ul li dl{padding:0;border:0;}
+#enterprise_result .result-list #hunter_result .view-more{text-align:center;}
+#enterprise_result .result-list #hunter_result .view-more a.btn-ui{margin:10px auto;}
+#enterprise_result .result-side .enterp_bus{background:#efefef;padding:0 15px 15px;}
+#enterprise_result .result-side .enterp_bus h2{font-size:14px;line-height:40px;border-bottom:1px solid #ccc;margin-bottom:20px;}
+#enterprise_result .result-side .enterp_bus .lt_ads div{margin:10px 0;}
+
+#resume-view{}
+#resume-view .resume-top{border-bottom:2px solid #213c84;text-align:right;}
+#resume-view .resume-top .resumeid{font-size:14px;font-weight:bold;}
+#resume-view .resume-top .btn-ui{margin:4px 8px;}
+#resume-view .resume-main{border-left:1px solid #cecfce;border-right:1px solid #cecfce;border-bottom:1px solid #cecfce;padding:20px;}
+
+#resume-view .box{position:relative;width:920px;margin:0 auto;border-left:1px solid #adaaad;border-top:1px solid #adaaad;background:url(http://pic.liepin.com/images/v8/resume/resume_box_x.png) right repeat-y;}
+#resume-view .box em.cnr,
+#resume-view .box em.clip{position:absolute;overflow:hidden;}
+#resume-view .box em.cnr{background:url(http://pic.liepin.com/images/v8/resume/resume_box_bg.png) no-repeat;}
+#resume-view .box em.cnr-rt{right:0;top:-1px;background-position:0 0;width:5px;height:8px;}
+#resume-view .box em.cnr-lb{left:-1px;bottom:0;_bottom:-1px;background-position:0 -9px;width:8px;height:7px;}
+#resume-view .box em.cnr-rb{right:0;bottom:0;background-position:-9px -9px;width:6px;height:7px;}
+#resume-view .box em.clip{left:-8px;top:-15px;width:63px;height:66px;background:url(http://pic.liepin.com/images/v8/icons/icon_clip.png);}
+#resume-view .box .box-bottom{margin-right:6px;background:url(http://pic.liepin.com/images/v8/resume/resume_box_y.png) repeat-x;height:7px;overflow:hidden;}
+#resume-view .box .tips{width:461px;height:100px;margin:5px;background:url(http://pic.liepin.com/images/v8/resume/resume_tips_bg.png);overflow:hidden;}
+#resume-view .box .tips dl{margin:15px 0 0 50px;font-size:14px;}
+#resume-view .box .tips dl dt{font-weight:bold;}
+#resume-view .box .content{padding:10px 15px 20px;line-height:30px;}
+#resume-view .box .content h2,
+#resume-view .box .content h3{font-size:14px;margin:5px 0;padding-left:10px;}
+#resume-view .box .content h2{background:url(http://pic.liepin.com/images/v8/resume/resume_tit_line.png) bottom repeat-x;}
+#resume-view .box .content dl{}
+#resume-view .box .content dl dt{float:left;width:108px;text-align:right;_marin-right:-3px;}
+#resume-view .box .content dl dd{margin-left:108px;_marin-left:105px;}
+#resume-view .box .content .basic{}
+#resume-view .box .content .basic .face{float:right;width:80px;display:inline;margin-right:40px;}
+#resume-view .box .content .basic ul{float:left;width:580px;}
+#resume-view .box .content .basic ul li{float:left;width:350px;}
+#resume-view .box .content .basic ul li.crossline{width:580px;}
+#resume-view .box .content .basic ul li.tiny{width:220px;_width:230px;}
+#resume-view .box .content .basic ul.cross{float:none;clear:both;width:auto;}
+#resume-view .box .content .basic ul.cross li{width:200px;}
+#resume-view .box .content .basic ul.cross li.tiny{width:500px;}
+#resume-view .box .content .basic ul.cross li.tiny dl dt{width:250px;}
+#resume-view .box .content .basic .buttons{clear:both;margin:10px 80px;position:relative;}
+#resume-view .box .content .basic .buttons .intention-form{position:absolute;left:130px;top:0;background:#ffffef;border:1px solid #cecfce;padding:4px 15px;}
+#resume-view .box .content .basic .buttons .intention-form select{width:200px;overflow:hidden;}
+#resume-view .box .content .basic ul li.hope-status dl dd{margin-right:-10em;}
+#resume-view .box .content .professional ul li{float:left;width:350px;}
+#resume-view .box .content .career-intentions{}
+#resume-view .box .content .career-en dl dt{width:130px;text-align:right;}
+#resume-view .box .content .career-en dl dd{margin-left:130px;}
+#resume-view .box .content .profile .rows-side,
+#resume-view .box .content .profile .rows-main .tit,
+#resume-view .box .content .profile .rows-main .job-tit{padding:0 5px;font-weight:bold;background:#efebe7;}
+#resume-view .box .content .profile .rows-main .job-tit{margin:5px 0;}
+#resume-view .box .content .profile .rows-main .job-tit .work-time{float:right;padding-left:5px;border-left:2px solid #fff;}
+#resume-view .box .content .profile .rows-side{float:left;width:120px;}
+#resume-view .box .content .profile .rows-main{margin-left:133px;}
+#resume-view .box .content .profile .rows-main .tit{font-size:14px;}
+#resume-view .box .content .profile .rows-main .details{line-height:22px;padding:10px 0;}
+#resume-view .box .content .profile .rows-main .details dl dt{width:60px;}
+#resume-view .box .content .profile .rows-main .details dl dd{margin-left:60px;padding-right:20px;}
+#resume-view .box .content .profile .rows-main-en .details dl dt{width:140px;}
+#resume-view .box .content .profile .rows-main-en .details dl dd{margin-left:140px;}
+#resume-view .box .content .profile .subtext{padding:0 30px;line-height:22px;}
+
+#resume_edit{}
+#resume_edit .input-text{border-radius:3px;}
+#resume_edit .tabs-ui-content{font-size:14px;}
+#resume_edit .tabs-ui-content .verify a.btn-save{padding:0 30px;}
+#resume_edit .tabs-ui-content .fields{line-height:35px;}
+#resume_edit .light-tips{padding:3px 5px;width:400px;margin:0 auto;font-size:12px;border:2px dashed #f00;background:url(http://pic.liepin.com/images/v8/icons/icon_light.gif) 10px center no-repeat;}
+#resume_edit .light-tips p{margin-left:25px;}
+#resume_edit .resume-title .tips{margin-left:658px;line-height:25px;}
+#resume_edit .resume-title .title{float:left;width:500px;}
+#resume_edit .resume-title .title .icon_help{vertical-align:baseline;margin-left:5px;}
+#resume_edit .resume-title .rate{float:right;}
+#resume_edit .resume-title .rate .rating,
+#resume_edit .resume-title .rate .rating em{display:inline-block;line-height:12px;height:12px;overflow:hidden;}
+#resume_edit .resume-title .rate .rating{width:100px;border:1px solid #1e8d31;vertical-align:middle;}
+#resume_edit .resume-title .rate .rating em{background:url(http://pic.liepin.com/images/v8/resume/resume_finish_rate.gif) repeat-x;vertical-align:baseline;}
+#resume_edit .resume-title .rate .percent{display:inline-block;margin-left:4px;width:40px;}
+#resume_edit #resume-info{*zoom:1;}
+#resume_edit h2{
+  position:relative;
+  border-top:#f4f4f4 1px solid;border-bottom:#fff 1px solid;border-radius:3px;padding-bottom:2px;line-height:40px;height:40px;font-size:18px;font-family:"microsoft yahei";padding-left:20px;cursor:pointer;
+  background-color: #eef2f2;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#f4f4f4), to(#fff));
+  background-image: -webkit-linear-gradient(#f4f4f4, #fff);
+  background-image:    -moz-linear-gradient(#f4f4f4, #fff);
+  background-image:     -ms-linear-gradient(#f4f4f4, #fff);
+  background-image:      -o-linear-gradient(#f4f4f4, #fff);
+  background-image:         linear-gradient(#f4f4f4, #fff);
+}
+#resume_edit h2:hover{
+  border-top-color:#d3d3d3;border-bottom-color:#fff;background:#fafafa;
+  background-color: #d7eefb;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#d7eefb), to(#ecf9fe));
+  background-image: -webkit-linear-gradient(#d7eefb, #ecf9fe);
+  background-image:    -moz-linear-gradient(#d7eefb, #ecf9fe);
+  background-image:     -ms-linear-gradient(#d7eefb, #ecf9fe);
+  background-image:      -o-linear-gradient(#d7eefb, #ecf9fe);
+  background-image:         linear-gradient(#d7eefb, #ecf9fe);
+}
+#resume_edit h2 em.recommend,
+#resume_edit h2 em.spacer,
+#resume_edit h2 span,
+#resume_edit h2 a.operate{font-weight:normal;}
+#resume_edit h2 em.recommend{float:left;padding:0 10px;color:#FF893A;font-size:14px;}
+#resume_edit h2 em.spacer{float:left;padding:0 10px;}
+#resume_edit h2 span{font-size:12px;margin:0 5px;}
+#resume_edit h2 a.operate{position:absolute;background:url(http://pic.liepin.com/images/v8/icons/icon_edit.png) no-repeat;float:right;font-family:"microsoft yahei";display:inline;top:12px;right:12px;text-indent:1.5em;font-size:14px;line-height:16px;}
+#resume_edit .fields .menus_child,
+#resume_edit .fields .buttons_child{line-height:30px;margin:5px 0 23px 0;padding:0 50px;}
+#resume_edit .fields .buttons_child a.submit{margin-left:91px;margin-right:20px;}
+#resume_edit .fields .buttons_child a.cancel{line-height:30px;vertical-align:middle;}
+#resume_edit .form-fields{padding:10px 20px;word-wrap:break-word;word-break:break-all;}
+#resume_edit .text-field{padding:0 20px;}
+#resume_edit .form-fields ul li{margin:2px;padding:0 5px;*zoom:1;}
+#resume_edit .form-fields ul li:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#resume_edit .form-fields ul li dl{*zoom:1;}
+#resume_edit .form-fields ul li dl:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#resume_edit .form-fields ul li dl dt{width:115px;float:left;clear:left;text-align:right;_margin-right:-3px;}
+#resume_edit .form-fields ul li dl dd{margin-left:115px;_margin-left:112px;}
+#resume_edit .form-fields .rows-side,
+#resume_edit .form-fields .rows-main .rows-title{padding:0 15px;font-size:16px;font-weight:bold;}
+#resume_edit .form-fields .rows-side{float:left;width:180px;text-align:center;}
+#resume_edit .form-fields .rows-main,
+#resume_edit .form-fields .details_add .menus_child{margin-left:200px;}
+#resume_edit .form-fields .rows-main ul li{line-height:25px;}
+#resume_edit .form-fields .rows-main .rows-title{text-align:right;_zoom:1;}
+#resume_edit .form-fields .rows-main .rows-title a.orange{color:#2C468C;}
+#resume_edit .form-fields .rows-main .rows-title .subtitle{float:left;text-align:left;}
+#resume_edit .form-fields .rows-main .rows-title .submenu{white-space:nowrap;}
+#resume_edit .form-fields .rows-main .rows-title .submenu a.orange{color:#2C468C;}
+#resume_edit .form-fields .rows-main .rows-title a.with-arrow{padding-left:14px;display:inline-block;white-space:nowrap;}
+#resume_edit .form-fields .input-text{margin:2px 0;}
+#resume_edit .form-fields .pop_selection{_margin-top:4px;}
+#resume_edit .form-fields .input-radio{margin:8px 0;}
+#resume_edit .form-fields .input-checkbox{margin:8px 0;}
+#resume_edit .form-fields span.select{margin:3px 0;}
+#resume_edit .form-fields textarea{margin-top:4px;margin-bottom:4px;overflow:auto;}
+#resume_edit .basic-form .form-fields{float:left;width:790px;*width:820px;_width:814px;*margin-left:-15px;_margin-left:-20px;}
+#resume_edit .basic-form .form-fields ul li{float:left;display:inline;width:380px;*width:390px;}
+#resume_edit .basic-form .face{float:right;width:80px;*width:60px;display:inline;}
+#resume_edit .basic-form .face img{display:block;margin:0 auto;}
+#resume_edit .basic-form .face .upload{position:relative;margin:5px auto;width:60px;overflow:hidden;}
+#resume_edit .basic-form .face .upload .file{top:3px;height:35px;}
+#resume_edit .basic-form .buttons_child{*margin-left:-15px;}
+#resume_edit .basic-form-en .face{width:150px;}
+#resume_edit .basic-form-en .face .upload{width:73px;}
+#resume_edit .basic-form-en .form-fields{width:680px;*margin-left:0px;}
+#resume_edit .basic-form-en .form-fields ul li{width:345px;*width:345px;}
+#resume_edit .basic-form-en .form-fields ul li.crossline{width:705px;}
+#resume_edit .basic-form-en .form-fields ul.cross{float:none;width:715px;clear:both;width:auto;}
+#resume_edit .basic-form-en .form-fields ul.cross li{width:705px;}
+#resume_edit .basic-form-en .form-fields ul li dl dt{width:130px;}
+#resume_edit .basic-form-en .form-fields ul li dl dd{margin-left:130px;_margin-left:127px;}
+#resume_edit .verify{text-align:center;padding:10px;}
+#resume_edit .jobwant-form-en ul li dl dt{width:145px;}
+#resume_edit .jobwant-form-en ul li dl dd{margin-left:145px;_margin-left:142px;}
+#resume_edit .jobwant-form-en form ul li dl dt{width:155px;}
+#resume_edit .jobwant-form-en form ul li dl dd{margin-left:155px;_margin-left:152px;}
+#resume_edit .salary-form-en ul li dl dt{width:135px;}
+#resume_edit .salary-form-en ul li dl dd{margin-left:135px;_margin-left:132px;}
+#resume_edit .works-form-en ul li dl dt,
+#resume_edit .education-form-en ul li dl dt,
+#resume_edit .project-form-en ul li dl dt,
+#resume_edit .introduce-form-en ul li dl dt,
+#resume_edit .others-form-en ul li dl dt{width:155px;}
+#resume_edit .works-form-en ul li dl dd,
+#resume_edit .education-form-en ul li dl dd,
+#resume_edit .project-form-en ul li dl dd,
+#resume_edit .introduce-form-en ul li dl dd,
+#resume_edit .others-form-en ul li dl dd{margin-left:155px;_margin-left:152px;}
+#resume_edit .works-form .field-with-demo{position:relative;}
+#resume_edit .works-form .field-with-demo dl dd{overflow:hidden;*margin-left:0;_margin-left:112px;}
+#resume_edit .works-form .field-with-demo dl dd textarea{width:580px;}
+#resume_edit .works-form .field-with-demo dl dd .demo-text{font-size:12px;line-height:24px;position:relative;margin-bottom:18px;margin-top:8px;width:576px;background-color:#f6f6f6;padding:10px;}
+#resume_edit .works-form .field-with-demo dl dd .demo-text em{position:absolute;bottom:-15px;left:30px;background:url(http://pic.liepin.com/images/v8/resume/help_tips_arrow.png);width:18px;height:15px;}
+#resume_edit .works-form .field-with-demo dl dd .demo-text .subtitle{font-size:14px;font-weight:bold;}
+#resume_edit .works-form .field-with-demo dl dd a.show-demo{position:absolute;left:716px;top:8px;display:block;width:28px;height:78px;background:url(http://pic.liepin.com/images/v8/resume/help_tips_bg.png);}
+#resume_edit .works-form .field-with-demo dl dd a.show-demo-close{background-position:right 0;}
+#resume_edit .language-form dl dd label{margin-right:20px;}
+#resume_edit .language-form dl dd label span{display:inline-block;width:60px;text-align:right;}
+#resume_edit .language-form dl dd label .input-text{margin-left:5px;width:80px;}
+#resume_edit .language-form dl dd label .field-others{width:300px;}
+#resume_edit .language-form{}
+
+#resume-view-history{}
+#resume-view-history .view-history{}
+#resume-view-history .view-history .title{background:#eee;padding:0 15px;line-height:35px;border-bottom:1px solid #ddd;}
+#resume-view-history .view-history .title .record-count{color:#e75c00;margin:0 4px;}
+#resume-view-history .view-history .history-list ul{}
+#resume-view-history .view-history .history-list ul li{padding:20px 5px;border-bottom:1px dotted #ccc;*zoom:1;}
+#resume-view-history .view-history .history-list ul li:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#resume-view-history .view-history .history-list ul li.odd{background-color:#f9f9f9;}
+#resume-view-history .view-history .history-list ul li .sub-title{font-size:14px;margin-bottom:5px;}
+#resume-view-history .view-history .history-list ul li .user-info{float:left;width:350px;}
+#resume-view-history .view-history .history-list ul li .user-info dl dt{float:left;width:75px;text-align:center;}
+#resume-view-history .view-history .history-list ul li .user-info dl dt img{display:block;margin:0 auto;}
+#resume-view-history .view-history .history-list ul li .user-info dl dd{margin-left:90px;padding:2px 0;}
+#resume-view-history .view-history .history-list ul li .user-info dl dd .attention-count{color:gray;margin-left:10px;}
+#resume-view-history .view-history .history-list ul li .user-info dl dd a.link-ui{margin-right:5px;}
+#resume-view-history .view-history .history-list ul li .operate-jobs{float:right;width:535px;padding:0 10px;overflow:hidden;}
+#resume-view-history .view-history .history-list ul li .operate-jobs .job-list{width:560px;}
+#resume-view-history .view-history .history-list ul li .operate-jobs .job-list tr td{padding:2px;}
+#resume-view-history .view-history .history-list ul li .operate-jobs .job-list tr td.city{width:120px;}
+#resume-view-history .view-history .history-list ul li .operate-jobs .job-list tr td.salary{width:100px;}
+#resume-view-history .view-history .history-list ul li .operate-jobs .job-list tr td.salary em{color:#e75c00;}
+#resume-view-history .view-history .history-list ul li .operate-jobs .link-more{text-align:right;}
+#resume-view-history .view-history .history-list .pager{margin:20px 0;}
+#resume-view-history .view-history .history-empty{font-size:14px;line-height:30px;background-color:#f6f6f6;padding:20px;margin:0 50px;}
+#resume-view-history .view-history .history-empty ol{margin-left:3em;}
+#resume-view-history .view-history .history-empty a{margin:0 5px;}
+
+#connections{}
+#connections .connections .title{background:#eee;padding:0 15px;line-height:35px;border-bottom:1px solid #ddd;}
+#connections .connections .title .record-count{color:#e75c00;margin:0 4px;}
+#connections .connections .title .tslink{margin-left:10px;}
+#connections .connections .connection-list ul,
+#connections .connections .connection-list ul li{*zoom:1;}
+#connections .connections .connection-list ul:after,
+#connections .connections .connection-list ul li:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#connections .connections .connection-list ul li{float:left;position:relative;width:295px;height:120px;padding:10px 5px;margin:10px 0;overflow:hidden;}
+#connections .connections .connection-list ul li.odd{background-color:#f9f9f9;}
+#connections .connections .connection-list ul li em.attention-network{position:absolute;right:10px;top:10px;background:url(http://pic.liepin.com/images/v8/icons/icon_attention_network.png);width:43px;height:13px;overflow:hidden;z-index:1;}
+#connections .connections .connection-list ul li em.attention-new{position:absolute;right:2px;top:4px;background:url(http://pic.liepin.com/images/v8/icons/new.gif);width:28px;height:11px;overflow:hidden;z-index:1;}
+#connections .connections .connection-list ul li dl{margin-right:10px;}
+#connections .connections .connection-list ul li dl dt{float:left;display:inline;margin-left:20px;position:relative;width:75px;text-align:center;}
+#connections .connections .connection-list ul li dl dt input{position:absolute;left:-18px;top:0;}
+#connections .connections .connection-list ul li dl dt img{display:block;margin:0 auto;}
+#connections .connections .connection-list ul li dl dd{margin-left:110px;padding:1px 0;white-space:nowrap;}
+#connections .connections .connection-list ul li dl dd a.link-ui{margin-right:10px;}
+#connections .connections .connection-list ul li dl dd .attention-count{color:gray;margin-left:10px;}
+#connections .connections .connection-list dl{border:1px solid #EAEAEA; padding:7px 0px 5px 5px; width:290px;}
+#connections .connections .connection-list ul li dl dt input{*left:-22px;}
+#connections .connections .connection-list dl.company dt .logo{border:1px solid #E4E4E4; width:108px; height:88px; overflow:hidden; padding:1px; display:block; background:#fff;}
+#connections .connections .connection-list dl.company dt .logo img.tinyLogo{border:none; padding:0; padding-top:20px;}
+#connections .connections .connection-list dl.company dd{ margin-left:143px;}
+#connections .connections .connection-list dl.company dd .substr{width:140px; overflow:hidden; display:block; white-space:nowrap; -o-text-overflow: ellipsis; text-overflow:ellipsis; overflow:hidden;}
+#connections .connections .connection-list ul li{height:130px;}
+#connections .connections .operate-bar{margin:10px 0;}
+#connections .connections .operate-bar a.link-operate-all{margin-left:20px;}
+#connections .connections .connection-empty,
+#connections .connections .connection-goldcard{font-size:14px;line-height:30px;background-color:#f6f6f6;padding:20px;margin:0 50px;}
+#connections .connections .connection-empty ol{margin-left:3em;}
+#connections .connections .connection-empty a{margin:0 5px;}
+#connections .connections .connection-goldcard{margin-top:20px;text-align:center;}
+#connections .connections .connection-goldcard a.btn-goldcard{display:block;text-indent:-1000em;margin:20px auto;width:144px;height:29px;background:url(http://pic.liepin.com/images/v8/buttons/button_tobe_golden_card.png);overflow:hidden;}
+#connections .connections .connection-goldcard a.btn-goldcard:hover{background-position:0 -30px;}
+
+
+.resume_quick_menu{text-align:right;border-bottom:1px solid #909090;font-size:14px;padding-bottom:6px;}
+.resume_quick_menu .rating{color:#080;font-size:22px;font-family:'Arial';}
+.resume_quick_menu a{color:#4800ff;text-decoration:underline;}
+
+.oprate-satus h1{font-size:26px;line-height:140px;}
+.oprate-satus h1 .icon_tick_green_46x46{margin-top:47px;margin-bottom:47px;}
+.oprate-satus h1 .icon_exclamation_orange_44x62{margin-top:39px;margin-bottom:39px;}
+.oprate-satus .box3d{background:url(http://pic.liepin.com/images/v8/cadidate/box3d_bg_x.png) repeat-y;width:738px;margin:0 auto;position:relative;}
+.oprate-satus .box3d em.cnr,
+.oprate-satus .box3d em.shadow{background-image:url(http://pic.liepin.com/images/v8/cadidate/box3d_corner.png);position:absolute;overflow:hidden;}
+.oprate-satus .box3d .side{background:url(http://pic.liepin.com/images/v8/cadidate/box3d_bg_y.png) repeat-x;height:3px;overflow:hidden;}
+.oprate-satus .box3d em.cnr{width:6px;height:6px;}
+.oprate-satus .box3d em.cnr-lt{background-position:0 0;left:0;top:0;}
+.oprate-satus .box3d em.cnr-rt{background-position:-6px 0;right:0;top:0;}
+.oprate-satus .box3d em.cnr-lb{background-position:0 -6px;left:0;bottom:0;}
+.oprate-satus .box3d em.cnr-rb{background-position:-6px -6px;right:0;bottom:0;}
+.oprate-satus .box3d .side-top{background-position:0 0;}
+.oprate-satus .box3d .side-bottom{background-position:0 -4px;}
+.oprate-satus .box3d em.shadow{width:37px;height:55px;}
+.oprate-satus .box3d em.shadow-left{background-position:0 -13px;left:-35px;bottom:5px;}
+.oprate-satus .box3d em.shadow-right{background-position:-39px -13px;right:-35px;bottom:5px;}
+.oprate-satus .box3d .inner{padding:40px 30px;}
+.oprate-satus .box3d .inner  h2{text-align:center;font-size:20px;margin-bottom:20px; line-height:40px;margin-top:8px}
+
+.oprate-satus .inner .sms-verify{margin-left:120px;height:150px;}
+.oprate-satus .inner .sms-verify .tips{font-size:16px;margin-bottom:20px;}
+.oprate-satus .inner .sms-verify .input-text{font-size:26px;line-height:30px;height:30px;padding:5px 10px;font-family:Arial;margin:5px 0;}
+.oprate-satus .inner .sms-verify button{margin:0 10px;}
+
+.oprate-satus .inner .goldcard-promotion .tips{width:460px;height:47px;margin:0 auto 20px auto;background:url(http://pic.liepin.com/images/v8/public/goldcard/goldcard_attention.png);text-indent:-1000em;}
+.oprate-satus .inner .goldcard-promotion .btn-ui{float:right;margin:40px 10px 0 0;}
+.oprate-satus .inner .goldcard-promotion ul{margin-left:50px;}
+.oprate-satus .inner .goldcard-promotion ul li{line-height:40px;font-size:14px;}
+.oprate-satus .inner .goldcard-promotion ul li strong{font-size:16px;color:#2c468c;}
+
+.oprate-satus .inner .career-intentions{margin:0 50px;}
+.oprate-satus .inner .career-intentions h2{text-align:left;padding-bottom:15px;border-bottom:1px dashed #b97101;}
+.oprate-satus .inner .career-intentions ul{margin:20px 0 20px 50px;}
+.oprate-satus .inner .career-intentions ul ul{margin:0;}
+.oprate-satus .inner .career-intentions ul li{font-size:14px;margin:10px 0;}
+
+.oprate-satus .jobs-elite{margin:0 10px;border-top:1px dashed #b97101;}
+.oprate-satus .jobs-elite .elite-title{font-size:14px;line-height:60px;}
+.oprate-satus .jobs-elite ul{width:620px;margin:0 auto;}
+.oprate-satus .jobs-elite ul li{padding:10px 0;border-bottom:1px dashed #2a2a2a;}
+.oprate-satus .jobs-elite ul li ol{list-style:none;}
+.oprate-satus .jobs-elite ul li ol li{border:0;padding:0;}
+.oprate-satus .jobs-elite ul li dl dt{float:left;width:70px;text-align:center;}
+.oprate-satus .jobs-elite ul li dl dd.match{float:right;margin-top:10px;width:125px;height:100px;border:1px solid #e9e9e9;position:relative;}
+.oprate-satus .jobs-elite ul li dl dd.match ol{position:absolute;left:20px;top:-10px;width:85px;height:120px;background:#fff;}
+.oprate-satus .jobs-elite ul li dl dd.match ol li{text-align:center;line-height:23px;}
+.oprate-satus .jobs-elite ul li dl dd.infos{margin-left:80px;margin-right:125px;line-height:30px;}
+.oprate-satus .jobs-elite ul li dl dd.infos .title,
+.oprate-satus .jobs-elite ul li dl dd.infos .subtitle{font-size:14px;}
+.oprate-satus .jobs-elite ul li dl dd.infos .title a{font-size:16px;font-weight:bold;}
+.oprate-satus .jobs-elite ul li dl dd.infos .title .publish-time{margin-left:10px;font-size:12px;color:#666;}
+.oprate-satus .jobs-elite ul li dl dd.infos .subtitle{margin-left:20px;}
+.oprate-satus .jobs-elite ul li dl dd.infos .subtitle .salary{font-size:25px;margin:0 4px;}
+.oprate-satus .jobs-elite ul li dl dd.infos ol{margin-left:20px;}
+.oprate-satus .jobs-elite ul li dl dd.infos ol li{float:left;width:180px;}
+.oprate-satus .jobs-elite .elite-more{background:#f1f1f1;text-align:center;line-height:30px;margin-top:20px;font-size:14px;}
+.oprate-satus .jobs-elite .elite-more a{font-weight:bold;}
+.oprate-satus .resume-unpassed{width:290px;font-size:14px;margin:0 auto;}
+.oprate-satus .resume-unpassed h4{font-size:14px;line-height:30px;}
+.oprate-satus .resume-unpassed ol{list-style-type:decimal;list-stype-position:outside;margin-left:2em;margin-top:1em;}
+.oprate-satus .resume-unpassed .buttons,
+.oprate-satus .resume-waiting .buttons{margin:20px 0;text-align:center;}
+.oprate-satus .resume-waiting{font-size:14px;width:680px;margin:0 auto;}
+.oprate-satus .resume-waiting p{text-indent:2em;}
+.oprate-satus .resume-waiting .job-simple{font-size:20px;text-align:center;line-height:50px;}
+.oprate-satus .goldcard-expired{padding:20px;text-align:center;}
+#my-resume table.resume-list{width:100%;border:1px solid #cecbce;line-height:30px;text-align:center;}
+#my-resume table.resume-list tr th{font-size:14px;font-weight:normal;border-bottom:1px solid #cecbce;background-color:#eff3ef;}
+#my-resume table.resume-list tr td{padding:0 5px;}
+#my-resume table.resume-list tr th.resume-id{width:80px;}
+#my-resume table.resume-list tr th.resume-name{width:200px;}
+#my-resume table.resume-list tr td.resume-status{}
+#my-resume table.resume-list tr td .status-group{_height:20px;_margin-top:9px;}
+#my-resume table.resume-list tr td .rating,
+#my-resume table.resume-list tr td .rating em{display:inline-block;line-height:12px;height:12px;overflow:hidden;}
+#my-resume table.resume-list tr td .rating{width:100px;border:1px solid #1e8d31;vertical-align:middle;text-align:left;}
+#my-resume table.resume-list tr td .rating em{background:url(http://pic.liepin.com/images/v8/resume/resume_finish_rate.gif) repeat-x;vertical-align:baseline;}
+#my-resume table.resume-list tr td .percent{display:inline-block;vertical-align:middle;margin-left:4px;}
+#my-resume table.resume-list .super-title .inner .status-help{padding:10px;text-align:left;}
+#my-resume table.resume-list .super-title .inner .status-help .status-help-buttons{text-align:center;padding-top:5px;}
+#my-resume table.resume-list .super-title .inner .status-help .status-help-buttons em{position:static;}
+#my-resume .resume-buttons{margin:15px 0 50px ;}
+#my-resume .no-resume{width:760px;margin:0 auto 50px;}
+#my-resume .no-resume .resume-side,
+#my-resume .no-resume .resume-center,
+#my-resume .no-resume .shadow{background-image:url(http://pic.liepin.com/images/v8/cadidate/no_resume.png);}
+#my-resume .no-resume .resume-side,
+#my-resume .no-resume .resume-center{position:relative;}
+#my-resume .no-resume .resume-side{width:173px;height:207px;background-position:0 0;}
+#my-resume .no-resume .resume-center{width:247px;height:296px;float:left;display:inline;margin-left:85px;background-position:-174px 0;}
+#my-resume .no-resume .resume-side h4{font-size:12px;line-height:24px;margin:7px 0 0 5px;text-align:center;}
+#my-resume .no-resume .resume-center h4{font-size:14px;color:#fff;line-height:32px;margin:14px 0 0 5px;text-align:center;}
+#my-resume .no-resume .resume-side .help-content{margin:12px 10px 0 15px;line-height:21px;color:#666;height:125px;}
+#my-resume .no-resume .resume-center .help-content{margin:35px 20px 0 25px;line-height:25px;font-size:14px;height:140px;}
+#my-resume .no-resume .links{margin:5px 0 0 5px;text-align:center;font-size:14px;}
+#my-resume .no-resume .help-content p{text-indent:2em;}
+#my-resume .no-resume .links .upload-link{width:64px;margin:0 auto;position:relative;overflow:hidden;}
+#my-resume .no-resume .links .upload-link input.file{left:-5px;width:60px;height:25px;z-index:100;}
+#my-resume .no-resume .links .loading_tiny{z-index:999;}
+#my-resume .no-resume em.shadow{position:absolute;bottom:0;}
+#my-resume .no-resume .resume-side em.shadow{background-position:-4px -209px;width:24px;height:68px;right:-23px;}
+#my-resume .no-resume em.shadow{background-position:-29px -209px;width:47px;height:98px;right:-46px;}
+
+#profile {}
+#profile .profile{margin:20px;font-size:14px;}
+#profile .profile table{margin:0 auto;width:100%;}
+#profile .profile-basic table{width:700px;}
+
+#profile .profile-basic h3{border-bottom:2px solid #ccc;line-height:30px;width:700px;margin:0 auto 20px;}
+#profile .profile-basic table tr.elite{background:#E9EDF9;border-bottom:2px solid #fff;}
+#profile .profile-basic table tr td{padding:6px 2px;}
+#profile .profile-basic table tr td.field{width:150px;text-align:right;padding-top:8px;_padding-top:12px;vertical-align:top;}
+#profile .profile-basic table tr td ul.mobile-fields li{padding:4px 0;}
+#profile .profile-basic table tr td .mobile-show{_float:left;_clear:right;}
+#profile .profile-basic table tr td .uploader{position:relative;width:100px;height:25px;overflow:hidden;}
+#profile .profile-basic table tr td .uploader .file{right:0;font-size:30px;top:-2px;}
+#profile .profile-intentions table{width:700px;}
+#profile .profile-intentions table td{padding:6px 2px;}
+#profile .profile-intentions table tr td.field{width:100px;text-align:right;}
+#profile .profile-privacy form{margin:0 50px;line-height:30px;}
+#profile .profile-privacy form span.privacy-tips{color:#f00;}
+#profile .profile-privacy form h2{background:#f7f3f7;padding:2px 15px;}
+#profile .profile-privacy form ul{margin:10px 0 10px 2em;}
+#profile .profile-privacy form table.privacy-details{width:100%;margin-top:10px;}
+#profile .profile-privacy form table.privacy-details tr td.field{width:140px;text-align:right;vertical-align:top;padding-top:4px;}
+#profile .profile-privacy form table.privacy-details ul{margin:0;}
+#profile .profile-privacy form table.privacy-details ul.collist{*zoom:1;}
+#profile .profile-privacy form table.privacy-details ul.collist:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#profile .profile-privacy form table.privacy-details ul.collist li{float:left;width:160px;}
+#profile .profile-privacy form input.input-radio{margin:5px 0;}
+#profile .profile-privacy form .buttons{text-align:center;margin:20px 0;}
+#profile .profile-jobs table{width:800px;}
+#profile .profile-jobs table tr td{padding:6px 2px;}
+#profile .profile-jobs table tr td.field{width:150px;text-align:right;}
+#profile .profile-jobs table tr td span.select select{width:258px;}
+#profile .profile-jobs table tr td span.select select.monthsPerYear{width:auto;}
+
+#message{font-family:"Microsoft YaHei";}
+#message .loading a{background-image:url(http://pic.liepin.com/images/v8/icons/loading_tiny.gif);background-position:center center;background-repeat:no-repeat;}
+#message .message,
+#message .message .main .item-list ul li dl{*zoom:1;}
+#message .message:after,
+#message .message .main .item-list ul li dl:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#message .message{padding:0;background:url(http://pic.liepin.com/images/v8/lietou/message/side_bg.png) repeat-y;}
+#message .message .side ul li,
+#message .message .main{background:#fff url(http://pic.liepin.com/images/v8/lietou/message/box_bg.png) repeat-x;}
+#message .message .side{float:left;width:168px;}
+#message .message .side ul li{margin-right:1px;border-bottom:1px solid #a9bfd5;font-size:14px;line-height:45px;white-space:nowrap;}
+#message .message .side ul li.current{margin-right:0;background:#fff;}
+#message .message .side ul li.loading a{background-position:2px center;}
+#message .message .side ul li a{display:block;padding:0 20px;font-weight:bold;overflow:hidden;}
+#message .message .side ul li a em{margin-left:10px;font-size:12px;font-weight:normal;color:#f00;}
+#message .message .main{margin-left:168px;padding:10px 20px 20px 20px;background-position:0 -47px;}
+#message .message-view .side{display:none;}
+#message .message-view .main{margin-left:0;background-image:none;}
+#message .message .main .talk-title{font-size:14px;margin-bottom:10px;height:25px;}
+#message .message .main .talk-title .link-grouplist{float:right;color:#e75c00;font-weight:bold;}
+#message .message .main .filter-box{padding:5px 0;overflow:hidden;margin-bottom:15px;}
+#message .message .main .filter-box ul{height:28px;}
+#message .message .main .filter-box ul li{float:left;border-right:1px dotted #ccc;display:inline;padding:4px 20px 0 20px;}
+#message .message .main .filter-box ul li.key-search{float:right;margin:0;padding:0;border:none;}
+#message .message .main .filter-box ul li.key-search button{margin-left:5px;}
+#message .message .main .filter-box ul li label{margin-right:10px;}
+#message .message .main .reply-box{padding:10px 0;margin:0 116px 0 100px;_zoom:1;}
+#message .message .main .reply-box ul li{padding:5px 0;_zoom:1;}
+#message .message .main .reply-box ul li textarea.reply-content{width:100%;height:80px;}
+#message .message .main .reply-box .buttons{margin-top:10px;margin-right:-16px;text-align:right;}
+#message .message .main .reply-box .buttons .letter-tips{float:left;}
+#message .message .main .item-empty{padding:30px 0;text-align:center;}
+#message .message .main .item-list ul{*zoom:1;}
+#message .message .main .item-list ul li{margin:30px 0;}
+#message .message .main .item-list ul li .highlight{color:#f00;background-color:#ff0;padding:0 3px;border-radius:3px;box-shadow:2px 2px 2px #ccc;margin:0 2px;}
+#message .message .main .item-list ul li dl dt{float:left;width:80px;text-align:center;overflow:hidden;}
+#message .message .main .item-list ul li dl dt .thumb{line-height:0;font-size:0;}
+#message .message .main .item-list ul li dl dd{border:1px solid #e8dc91;background-color:#ffffef;margin:0 100px;_margin-left:97px;padding:5px 15px;position:relative;*zoom:1;}
+#message .message .main .item-list ul li dl dd em.new,
+#message .message .main .item-list ul li dl dd .arrow,
+#message .message .main .item-list ul li dl dd .arrow em,
+#message .message .main .item-list ul li dl dd .shadow{position:absolute;}
+#message .message .main .item-list ul li dl dd em.new{top:-10px;right:-15px;color:#fff;background-color:#f60;font-size:12px;line-height:16px;padding:0 5px;border-radius:10px;box-shadow:1px 1px 1px #999;}
+#message .message .main .item-list ul li dl dd .arrow{font-family:"\5b8b\4f53";top:10px;left:-12px;font-size:24px;color:#e8dc91;}
+#message .message .main .item-list ul li dl dd .arrow em{top:0;left:1px;color:#ffffef;}
+#message .message .main .item-list ul li dl dd .shadow,
+#message .message .main .item-list ul li dl dd .shadow p{position:relative;font-size:0;line-height:0;border-left:1px solid #e8dc91;border-right:1px solid #e8dc91;border-bottom:1px solid #e8dc91;}
+#message .message .main .item-list ul li dl dd .shadow{margin:0 -12px -12px;padding:6px 4px 0;*zoom:1;}
+#message .message .main .item-list ul li dl dd .shadow p{margin-bottom:-7px;height:6px;}
+#message .message .main .item-list ul li dl dd .title{color:gray;}
+#message .message .main .item-list ul li dl dd .content{font-size:14px;min-height:70px;_height:70px;margin:10px 0;}
+#message .message .main .item-list ul li dl dd .content .loading{padding:10px 0;}
+#message .message .main .item-list ul li dl dd .content .talk-content{white-space:pre-wrap;*white-space:pre;word-wrap:break-word;word-break:break-all;}
+#message .message .main .item-list ul li dl dd .come-from{color:gray;}
+#message .message .main .item-list ul li dl dd .come-from a.weibo{background:url(http://pic.liepin.com/images/v8/icons/icon_weibo_gray.png) left center no-repeat;margin-left:5px;padding-left:18px;color:gray;}
+#message .message .main .item-list ul li dl dd .item-menu{color:gray;margin-bottom:5px;}
+#message .message .main .item-list ul li dl dd .item-menu .sidemenu{float:right;}
+#message .message .main .item-list ul li dl dd .item-menu a{margin:0 6px;}
+#message .message .main .item-list ul li dl dd .item-menu .label-hover{visibility:hidden;_visibility:visible;}
+#message .message .main .item-list ul li dl dd:hover .item-menu .label-hover{visibility:visible;}
+#message .message .main .item-list ul li dl dd .content .attachment{margin:5px 0;}
+#message .message .main .item-list ul li dl dd .content .view-buttons{margin:20px 0;}
+#message .message .main .item-list ul li dl dd .content .view-buttons a.btn-view-phone span{padding-left:30px;display:inline-block;margin-left:-5px;background:url(http://pic.liepin.com/images/v8/icons/icon_phone_03.png) left center no-repeat;}
+
+#message .message .main .item-list ul li.sender dl dt{float:right;}
+#message .message .main .item-list ul li.sender dl dd{background-color:#ecf5fe;border-color:#afc3e9;_margin-left:100px;_margin-right:97px;}
+#message .message .main .item-list ul li.sender dl dd .arrow{left:auto;right:-13px;color:#afc3e9;}
+#message .message .main .item-list ul li.sender dl dd .arrow em{color:#ecf5fe;left:auto;right:1px;}
+#message .message .main .item-list ul li.sender dl dd .shadow,
+#message .message .main .item-list ul li.sender dl dd .shadow p{border-color:#afc3e9;}
+#message .message .main .item-list ul li .item{position:relative;background-color:#fff;border:1px solid #ddd;padding:0 10px;}
+#message .message .main .item-list ul li .item em.new{position:absolute;top:-10px;right:-15px;color:#fff;background-color:#f60;font-size:12px;line-height:16px;padding:0 5px;border-radius:10px;box-shadow:1px 1px 1px #999;}
+#message .message .main .item-list ul li .item h4{margin-top:10px;}
+#message .message .main .item-list ul li .item .content{font-size:14px;margin:5px 0;word-wrap:break-word;word-break:break-all;}
+#message .message .main .item-list ul li .item .item-menu{color:gray;margin-bottom:5px;}
+#message .message .main .item-list .pagelist{}
+#message .message .main .item-list .pagelist .pager-side{float:left;}
+#message .message .main .new-tips{padding:15px 0;}
+#message .message .main .new-tips a{display:block;}
+#message .message .main .new-tips a.link-new-item{background-color:#ffffef;color:#e75c00;line-height:30px;text-align:center;border:1px solid #cecbce;}
+#message .message .main .new-tips a.link-loader,
+#message .message .main .new-tips a.link-dyn-loader{color:#e75c00;font-size:14px;font-weight:bold;line-height:30px;text-align:center;}
+#message .message .main .confirm-btn{display:inline-block;padding:0 5px;line-height:18px;border-width:1px;border-style:solid;border-radius:5px;vertical-align:middle;}
+#message .message .main .confirm-ok{background-color:#455c9b;border-color:#2e4888;color:#fff;}
+#message .message .main .confirm-cancel{background-color:#e9edf1;border-color:#4d78b8;color:#1e3979;}
+#message .message .main .mask-success{position:absolute;text-align:center;}
+#message .message .main .mask-success span{background:url(http://pic.liepin.com/images/v8/icons/icon_tick_02.png) left center no-repeat;padding-left:20px;}
+#message .gotop{position:fixed;margin:auto;bottom:50px;_position:absolute;_top:expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-50-98));width:28px;height:98px;z-index:1200;background:#f6f6f6 url(http://pic.liepin.com/images/v8/buttons/btn_gotop.png) center center no-repeat;overflow:hidden;cursor:pointer;}
+
+#sojob {}
+#sojob .sojob{margin:20px;font-size:14px;}
+#sojob .sojob table{margin:0 auto;width:100%;}
+#sojob .sojob-subscribe{width:800px;margin:0 auto;}
+#sojob .sojob-subscribe .subscribe-form{margin:40px 0;border:1px solid #d6d7d6;}
+#sojob .sojob-subscribe .subscribe-form h2{padding: 0 15px;line-height:36px;border-bottom:1px solid #d6d7d6;}
+#sojob .sojob-subscribe table{width:640px;margin:20px auto;}
+#sojob .sojob-subscribe table tr td{padding:6px 2px;}
+#sojob .sojob-subscribe table tr td.field{width:100px;text-align:right;}
+
+#goldcard{font-family:"\5fae\8f6f\96c5\9ed1";}
+#goldcard .tabs-ui{position:relative;}
+#goldcard .tabs-ui .hotline{position:absolute;right:10px;top:3px;background:url(http://pic.liepin.com/images/v8/icons/icon_gold_01.png) left center no-repeat;padding-left:20px;}
+#goldcard .progress{margin-bottom:20px;}
+#goldcard .progress ul{*zoom:1;}
+#goldcard .progress ul:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#goldcard .progress ul li{width:320px;background-color:#e4e4e4;text-align:center;font-size:14px;line-height:31px;float:left;position:relative;}
+#goldcard .progress ul li.current{background-color:#f90;color:#fff;}
+#goldcard .progress ul li em{position:absolute;left:-16px;top:0;width:32px;height:31px;background:url(http://pic.liepin.com/images/v8/icons/arrow_progress.png) no-repeat;}
+#goldcard .goldcard-update{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/update_bg.png) right top no-repeat;}
+#goldcard .goldcard-update .main{float:left;width:485px;padding:0 15px;}
+#goldcard .discrip-box{border:1px solid #baa05e;background:#fff url(http://pic.liepin.com/images/v8/cadidate/goldcard/gold_supertitle_bg.png) left bottom repeat-x;border-radius:8px;padding:10px;position:relative;*zoom:1;}
+#goldcard .discrip-box em.arrow{position:absolute;bottom:-12px;left:25px;width:21px;height:12px;overflow:hidden;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/gold_supertitle_arrow.png);}
+#goldcard .discrip-box .content{height:300px;position:relative;}
+#goldcard .discrip-box .content .intro{padding-top:9px;margin:0 -10px;}
+#goldcard .discrip-box .content .sub-title{position:absolute;bottom:0;width:460px;font-size:14px;color:#fff;}
+#goldcard .discrip-box .content .sub-title p{margin-left:5em;text-indent:-5em;}
+#goldcard .goldcard-update{*zoom:1;}
+#goldcard .goldcard-update:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#goldcard .goldcard-update .gold-tabs{}
+#goldcard .goldcard-update .gold-tabs ul{*zoom:1;margin:20px -8px;}
+#goldcard .goldcard-update .gold-tabs ul:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#goldcard .goldcard-update .gold-tabs ul li{float:left;width:61px;display:inline;margin:0 11px;font-size:14px;text-align:center;}
+#goldcard .goldcard-update .gold-tabs ul li a{background-image:url(http://pic.liepin.com/images/v8/cadidate/goldcard/update_tabs_bg.png);display:block;height:61px;margin-bottom:4px;}
+#goldcard .goldcard-update .gold-tabs ul li a.assist{background-position:right 0;}
+#goldcard .goldcard-update .gold-tabs ul li a.contact{background-position:right -62px;}
+#goldcard .goldcard-update .gold-tabs ul li a.setup{background-position:right -124px;}
+#goldcard .goldcard-update .gold-tabs ul li a.group{background-position:right -186px;}
+#goldcard .goldcard-update .gold-tabs ul li a.promotion{background-position:right -248px;}
+#goldcard .goldcard-update .gold-tabs ul li a.mbti{background-position:right -310px;}
+#goldcard .goldcard-update .gold-tabs ul li a.consult{background-position:right -373px;}
+#goldcard .goldcard-update .gold-tabs ul li.current a.assist{background-position:left 0;}
+#goldcard .goldcard-update .gold-tabs ul li.current a.contact{background-position:left -62px;}
+#goldcard .goldcard-update .gold-tabs ul li.current a.setup{background-position:left -124px;}
+#goldcard .goldcard-update .gold-tabs ul li.current a.group{background-position:left -186px;}
+#goldcard .goldcard-update .gold-tabs ul li.current a.promotion{background-position:left -248px;}
+#goldcard .goldcard-update .gold-tabs ul li.current a.mbti{background-position:left -310px;}
+#goldcard .goldcard-update .gold-tabs ul li.current a.consult{background-position:left -373px;}
+#goldcard .goldcard-update .side{width:440px;float:right;overflow:hidden;}
+#goldcard .goldcard-update .side .upgrade .update-button{text-align:center;padding-top:180px;}
+
+#goldcard .upgrade .update_title{height:120px;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/gold_update_title.png) center center no-repeat;}
+#goldcard .upgrade .update-button{text-align:center;padding:20px 0 20px 0;}
+#goldcard .upgrade input.update,
+#goldcard .upgrade input.renewal{border:0;width:246px;height:55px;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/btn_update.png);cursor:pointer;}
+#goldcard .upgrade input.update{background-position:0 0;}
+#goldcard .upgrade input.renewal{background-position:0 -56px;}
+#goldcard .upgrade table.price-list{width:360px;margin:0 auto;background-color:#f3f3f3;}
+#goldcard .upgrade table.price-list tr td{border:1px solid #fff;padding:2px;text-align:center;}
+#goldcard .upgrade table.price-list tr.elite{background-color:#dbe8f4;height:60px;}
+#goldcard .upgrade table.price-list tr td.intro{background:#c59d58;font-weight:bold;color:#fff;text-align:left;text-indent:0.5em;}
+#goldcard .upgrade table.price-list tr td.elite{background-image:url(http://pic.liepin.com/images/v8/cadidate/goldcard/price_list_elite.png);background-position:right bottom;background-repeat:no-repeat;}
+#goldcard .upgrade table.price-list tr td.consult{background-color:#fdd;}
+#goldcard .upgrade_active,
+#goldcard .upgrade_time{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/active_time_bg.png) center bottom no-repeat;padding-bottom:15px;*zoom:1;}
+#goldcard .active_time{font-size:14px;line-height:45px;}
+#goldcard .active_time .side{float:right;*width:50%;*text-align:right;*zoom:1}
+#goldcard .active_time .side .days{color:#f00;}
+#goldcard .active_time .side a.renewal{float:right;margin-left:15px;}
+#goldcard .active_time .time-soon{font-size:20px;}
+#goldcard .active_time .time-soon .days{font-size:35px;vertical-align:bottom;*vertical-align:middle;}
+#goldcard .active_time .time-soon a.renewal{display:block;text-indent:-1000em;*text-indent:1000em;overflow:hidden;width:145px;height:44px;background:url(http://pic.liepin.com/images/v8/buttons/button_renewal.png)}
+#goldcard .goldcard-type-selector{font-family:'Microsoft Yahei';}
+#goldcard .goldcard-type-selector h2{line-height:60px;font-size:16px;}
+#goldcard .goldcard-type-selector table{width:100%;margin:0 auto;}
+#goldcard .goldcard-type-selector table tr td{border:1px solid #fff;padding:8px;text-align:center;font-size:14px;border:1px solid #ccc;}
+#goldcard .goldcard-type-selector table tr.elite{background-color:#fff899;height:60px;}
+#goldcard .goldcard-type-selector table tr td.intro{font-weight:bold;text-align:left;text-indent:0.5em;color:#e75c00;}
+#goldcard .goldcard-type-selector table tr td.elite{background-image:url(http://pic.liepin.com/images/v8/cadidate/goldcard/price_list_elite.png);background-position:right bottom;background-repeat:no-repeat;}
+#goldcard .goldcard-type-selector .cart-result{text-align:right;font-size:16px;margin-top:20px;}
+#goldcard .goldcard-type-selector .cart-result .total-bill{margin-bottom:10px;}
+#goldcard .goldcard-type-selector .cart-result .total-bill .count{color:#e75c00;}
+
+#goldcard .authority{}
+#goldcard .authority ul.list{}
+#goldcard .authority ul.list li.rowbox{border-bottom:1px solid #e5e5e5;*zoom:1;}
+#goldcard .authority ul.list li a.anchor{display:block;height:0;overflow:hidden;}
+#goldcard .authority ul.list li ul.pop_selection_result li{border:0;}
+#goldcard .authority ul.list li dl,
+#goldcard .authority ul.list li dl dt{*zoom:1;}
+#goldcard .authority ul.list li dl:after,
+#goldcard .authority ul.list li dl dt:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#goldcard .authority ul.list li dl{padding:20px 0;}
+#goldcard .authority ul.list li dl.open{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/authority_view_bg.jpg) center top repeat-y;}
+#goldcard .authority ul.list li dl dt{float:left;width:275px;padding-right:25px;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/card_authority_line.gif) right 5px no-repeat;}
+#goldcard .authority ul.list li dl.open dt{background-image:url(http://pic.liepin.com/images/v8/cadidate/goldcard/card_authority_line_active.gif);}
+#goldcard .authority ul.list li dl dd{margin-left:320px;}
+#goldcard .authority ul.list li dl dt .icon{float:left;cursor:pointer;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/icon_authority_bg.png);width:117px;height:117px;margin-bottom:10px;position:relative;z-index:10;overflow:hidden;}
+#goldcard .authority ul.list li dl dt .icon .discrip-box{position:absolute;margin-top:-75px;margin-left:130px;z-index:10;cursor:default;}
+#goldcard .authority ul.list li dl dt .icon .discrip-box em.arrow{top:100px;left:-12px;width:12px;height:21px;background-position:0 -12px;}
+#goldcard .authority ul.list li dl dt .icon .discrip-box em.close{position:absolute;z-index:100;top:7px;right:7px;width:20px;height:20px;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/box_close.png);cursor:pointer;overflow:hidden;}
+#goldcard .authority ul.list li dl.auth-assist dt .icon{background-position:0 0;}
+#goldcard .authority ul.list li dl.auth-contact dt .icon{background-position:0 -118px;}
+#goldcard .authority ul.list li dl.auth-setup dt .icon{background-position:0 -236px;}
+#goldcard .authority ul.list li dl.auth-group dt .icon{background-position:0 -354px;}
+#goldcard .authority ul.list li dl.auth-promotion dt .icon{background-position:0 -472px;}
+#goldcard .authority ul.list li dl.auth-mbti dt .icon{background-position:0 -590px;}
+#goldcard .authority ul.list li dl.auth-consult dt .icon{background-position:0 -708px;}
+#goldcard .authority ul.list li.auth-not-active dl.auth-assist dt .icon{background-position:-118px 0;}
+#goldcard .authority ul.list li.auth-not-active dl.auth-contact dt .icon{background-position:-118px -118px;}
+#goldcard .authority ul.list li.auth-not-active dl.auth-setup dt .icon{background-position:-118px -236px;}
+#goldcard .authority ul.list li.auth-not-active dl.auth-group dt .icon{background-position:-118px -354px;}
+#goldcard .authority ul.list li.auth-not-active dl.auth-promotion dt .icon{background-position:-118px -472px;}
+#goldcard .authority ul.list li.auth-not-active dl.auth-mbti dt .icon{background-position:-118px -590px;}
+#goldcard .authority ul.list li.auth-not-active dl.auth-consult dt .icon{background-position:-118px -708px;}
+#goldcard .authority ul.list li.auth-disable dl.auth-assist dt .icon{background-position:-236px 0;}
+#goldcard .authority ul.list li.auth-disable dl.auth-contact dt .icon{background-position:-236px -118px;}
+#goldcard .authority ul.list li.auth-disable dl.auth-setup dt .icon{background-position:-236px -236px;}
+#goldcard .authority ul.list li.auth-disable dl.auth-group dt .icon{background-position:-236px -354px;}
+#goldcard .authority ul.list li.auth-disable dl.auth-promotion dt .icon{background-position:-236px -472px;}
+#goldcard .authority ul.list li.auth-disable dl.auth-mbti dt .icon{background-position:-236px -590px;}
+#goldcard .authority ul.list li.auth-disable dl.auth-consult dt .icon{background-position:-236px -708px;}
+#goldcard .authority ul.list li dl dt .subinfo{margin-left:130px;color:gray;line-height:22px;position:relative;_zoom:1;}
+#goldcard .authority ul.list li dl dt .subinfo h2{font-size:18px;font-weight:normal;color:#333;margin-bottom:10px;}
+#goldcard .authority ul.list li dl dt .subinfo .btn-ui{margin:15px 0;}
+#goldcard .authority ul.list li dl dt .auth-sub{clear:both;display:none;color:gray;}
+#goldcard .authority ul.list li dl dd .auth-info .count-info{font-size:18px;color:#666;margin-bottom:10px;}
+#goldcard .authority ul.list li dl dd .auth-info .count-info .count{font-size:35px;line-height:35px;margin:0 4px;color:#090;}
+#goldcard .authority ul.list li.auth-not-active dl dd .auth-info .count-info .count{color:#e75c00;}
+#goldcard .authority ul.list li.auth-disable dl dd .auth-info .count-info .count{color:#e75c00;}
+#goldcard .authority ul.list li dl dd .auth-info .count-info .expired{color:#e75c00;margin-left:15px;}
+#goldcard .authority ul.list li dl dd .auth-info .count-info .mbti-result{font-size:18px;}
+#goldcard .authority ul.list li dl dd .auth-info .count-info .hunter-view{margin-left:10px;font-size:14px;}
+#goldcard .authority ul.list li dl dd .auth-info .count-info .count-side{float:right;margin-top:10px;}
+#goldcard .authority ul.list li dl dd .auth-info .count-info .count-side a{margin-left:1em;}
+#goldcard .authority ul.list li dl dd .auth-info .info{font-size:14px;}
+#goldcard .authority ul.list li dl dd .auth-info .info .btn-ui{margin:10px 5px;}
+#goldcard .authority ul.list li dl dd .view-info{display:none;}
+#goldcard .authority ul.list li dl dd .view-info table.group-table{font-size:14px;margin-top:10px;}
+#goldcard .authority ul.list li dl dd .view-info table.group-table tr td{padding:5px 2px;}
+#goldcard .authority ul.list li dl dd .view-info table.group-table tr td.field{width:120px;text-align:right;vertical-align:top;}
+#goldcard .authority ul.list li dl dd .view-info table.group-table tr td a.attachment{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/icon_attachment.gif) right center no-repeat;padding-right:26px;}
+#goldcard .authority ul.list li dl dd .view-info .slider{margin-top:20px;margin-bottom:-20px;}
+#goldcard .authority ul.list li dl dd .view-info .slider a{display:block;text-indent:-1000em;overflow:hidden;margin-left:160px;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/slide_button.gif);width:46px;height:22px;}
+#goldcard .authority ul.list li dl dd .view-info .buttons{padding-top:10px;}
+#goldcard .authority ul.list li dl.auth-assist dd .auth-info .control{}
+#goldcard .authority ul.list li dl.auth-assist dd .auth-info .control a.link-active{margin-left:2em;}
+#goldcard .authority ul.list li dl.auth-mbti dd .view-info .buttons{margin-left:150px;}
+#goldcard .authority ul.list li dl.auth-mbti dd .auth-info{margin-right:35px;}
+#goldcard .authority ul.list li dl dd .view-info .mbti-list{list-style-position:outside;list-style-type:decimal;}
+#goldcard .authority ul.list li dl dd .view-info .mbti-list li{margin-left:2em;border:0;padding:4px 0;}
+#goldcard .authority ul.list li dl dd .view-info h2{line-height:30px;font-weight:normal;padding:0 10px;background:#d1d2cf;}
+#goldcard .authority ul.list li dl dd .view-info .mbti-result{padding:10px;}
+#goldcard .authority ul.list li dl.open dt .subinfo .auth-button,
+#goldcard .authority ul.list li dl.open dd .auth-info{display:none;}
+#goldcard .authority ul.list li dl.open dt .auth-sub,
+#goldcard .authority ul.list li dl.open dd .view-info{display:block;}
+#goldcard .authority ul.list li.expired dl dd .auth-info .count-info,
+#goldcard .authority ul.list li.expired dl dd .auth-info .count-info .orange,
+#goldcard .authority ul.list li.expired dl dd .auth-info .count-info .green{color:gray;}
+#goldcard .order-list{padding:20px 0;}
+#goldcard .order-list table{width:100%;font-size:14px;}
+#goldcard .order-list table tr th,
+#goldcard .order-list table tr td{padding:5px 0;text-align:center;border-bottom:1px dotted #ccc;}
+#goldcard .order-list table tr th{background-color:#eee;}
+#goldcard .order-list .pager{margin-top:20px;}
+#goldcard .order-list .pager .record-count{float:left;}
+#goldcard-gotop{position:absolute;background:url(http://pic.liepin.com/images/v8/buttons/btn_gotop.png);width:28px;display:none;}
+#goldcard-gotop a{display:block;height:98px;background:#f6f6f6 url(http://pic.liepin.com/images/v8/buttons/btn_gotop.png);text-indent:-1000em;overflow:hidden;}
+#goldcard-gotop a:hover{background-color:#dff3fd;}
+
+#goldcard-introduction{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/introduction/bg.png); padding-bottom:20px;}
+#goldcard-introduction .title{ font-family:"Microsoft YaHei"; font-weight:normal; padding-left:20px; color:#6f6f6f; height:48px; line-height:48px; font-size:24px; border-bottom:1px solid #cecece;}
+#goldcard-introduction .goldcard-bg{border-radius:5px; box-shadow:0px 3px 4px rgba(0,0,0,0.3); background:#fff;}
+#goldcard-introduction .goldcard-service-box{width:960px; margin:0px auto;}
+#goldcard-introduction .goldcard-service-banner{ position:relative; border-bottom:1px solid #e5e5e5; box-shadow:0px 2px 2px rgba(0,0,0,0.2);}
+#goldcard-introduction .goldcard-service-banner .goldcard-service-box{ position:absolute; left:50%; margin-left:-480px; z-index:15;}
+#goldcard-introduction .goldcard-service-banner .carousel-box{height:10px;}
+#goldcard-introduction .goldcard-service-banner .goldcard-service-box .carousel{width:500ppx; text-align:center; margin:324px auto 0px auto;}
+#goldcard-introduction .goldcard-service-banner .goldcard-service-box .carousel a{width:15px; height:15px; margin:0px 8px; cursor:pointer; background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/introduction/carousel.png) -27px 2px no-repeat;display:inline-block;*display:inline;*zoom:1;}
+#goldcard-introduction .goldcard-service-banner .goldcard-service-box .carousel a.cur{background-position:2px 2px;}
+
+#goldcard-introduction .goldcard-service-banner .panes{height:359px; overflow:hidden;}
+#goldcard-introduction .goldcard-service-banner .panes .pic{height:359px;}
+#goldcard-introduction .goldcard-service-banner .panes .banner1{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/introduction/banner_1.jpg) no-repeat center center #93d1f0;}
+#goldcard-introduction .goldcard-service-banner .panes .banner2{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/introduction/banner_2.jpg) no-repeat center center #93d1f0;}
+#goldcard-introduction .goldcard-service-banner .panes .banner3{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/introduction/banner_3.jpg) no-repeat center center #7ac1e7;}
+#goldcard-introduction .goldcard-service-banner .price-list{position:relative;z-index:10;}
+#goldcard-introduction .goldcard-service-banner .price-list .price-form{position:absolute;width:350px;top:-275px;right:0;}
+#goldcard-introduction .goldcard-service-banner .price-list .price-form table{width:100%;background-color:#f3f3f3;box-shadow:0 0 3px #999;}
+#goldcard-introduction .goldcard-service-banner .price-list .price-form table tr td{border:1px solid #fff;padding:4px 2px;text-align:center;}
+#goldcard-introduction .goldcard-service-banner .price-list .price-form table tr.elite td{
+  color:#fff;
+  font-size:14px;
+  font-weight:bold;
+  background:#b89146;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#c59d58), to(#9f7823));
+  background-image: -webkit-linear-gradient(#c59d58, #9f7823);
+  background-image:    -moz-linear-gradient(#c59d58, #9f7823);
+  background-image:     -ms-linear-gradient(#c59d58, #9f7823);
+  background-image:      -o-linear-gradient(#c59d58, #9f7823);
+  background-image:         linear-gradient(#c59d58, #9f7823);
+}
+#goldcard-introduction .goldcard-service-banner .price-list .cart-buttons{text-align:center;margin-top:20px;}
+#goldcard-introduction .goldcard-service-banner .price-list .cart-buttons .btn-gold-member{border:0;width:246px; height:66px; line-height:66px; font-size:24px; text-align:center; font-family:"Microsoft YaHei"; text-shadow:1px 1px 1px #d5c37a; color:#362e2b;box-shadow:0px 2px 4px #434343;border-radius:7px; background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/introduction/vipbtn.png);cursor: pointer;}
+#goldcard-introduction .goldcard-service-bar{margin-top:20px; }
+#goldcard-introduction .goldcard-service-bar .info{overflow:hidden; *zoom:1; padding:15px 0px;}
+#goldcard-introduction .goldcard-service-bar .info dl{width:120px; padding:0px 20px; margin-left:-1px; float:left; border-left:1px dotted #cecece; }
+#goldcard-introduction .goldcard-service-bar .info dl h2{margin-bottom:5px;}
+#goldcard-introduction .goldcard-service-bar .info dl dt{ text-align:center;}
+#goldcard-introduction .goldcard-service-bar .info dl .ico{width:60px; height:60px; display:inline-block; *display:inline; *zoom:1; background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/introduction/vipicon.png) no-repeat;}
+#goldcard-introduction .goldcard-service-bar .info dl .ico2{ background-position:-61px 0px;}
+#goldcard-introduction .goldcard-service-bar .info dl .ico3{ background-position:-122px 0px;}
+#goldcard-introduction .goldcard-service-bar .info dl .ico4{ background-position:-183px 0px;}
+#goldcard-introduction .goldcard-service-bar .info dl .ico5{ background-position:-244px 0px;}
+#goldcard-introduction .goldcard-service-bar .info dl .ico6{ background-position:-304px 0px;}
+#goldcard-introduction .goldcard-case-bar{margin-top:10px;}
+#goldcard-introduction .goldcard-case-bar .info{padding-top:20px;}
+#goldcard-introduction .goldcard-case-bar:after{line-height:0; display:block; height:0px; visibility:hidden; clear:both; content:"."}
+#goldcard-introduction .goldcard-case-bar .left{width:640px; height:190px; float:left;}
+#goldcard-introduction .goldcard-case-bar .service{width:300px; height:190px; float:right; overflow:hidden;}
+#goldcard-introduction .goldcard-case-bar .service dl{ border-top:1px dotted #ccc; *zoom:1; padding:20px 0px 10px 0px; margin-top:-1px;}
+#goldcard-introduction .goldcard-case-bar .service dl:after{line-height:0; display:block; *display:inline; *zoom:1; height:0px; visibility:hidden; clear:both; content:"."}
+#goldcard-introduction .goldcard-case-bar .service dt{width:74px; height:74px; float:left; text-align:center;}
+#goldcard-introduction .goldcard-case-bar .service dd{width:200px; float:left;}
+#goldcard-introduction .goldcard-case-bar .service dt i{width:32px; height:32px; display:inline-block; background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/introduction/service.png) no-repeat;}
+#goldcard-introduction .goldcard-case-bar .service dt i.tel{background-position:0px 3px;}
+#goldcard-introduction .goldcard-case-bar .service dt i.mail{background-position:0px -48px;}
+#goldcard-introduction .goldcard-case-bar .service dd h2{font-family:"Microsoft YaHei"; font-size:15px;}
+#goldcard-introduction .goldcard-case-bar .left{ position:relative;}
+#goldcard-introduction .user-case{ margin:32px auto 0px auto; font-size:14px; line-height:26px; color:#999;}
+#goldcard-introduction .user-case .panse{width:540px; height:140px; overflow:hidden; *position:relative;} 
+#goldcard-introduction .user-case ul li .big{font-size:26px; line-height:26px;}
+#goldcard-introduction .user-case ul li .right{text-align:right;}
+#goldcard-introduction .btn{width:36px;height:36px;display:block;cursor:pointer;filter:alpha(opacity=20); opacity:0.2; position:absolute; z-index:5; top:80px; background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/introduction/arrow.png) no-repeat;}
+#goldcard-introduction .btn:hover{filter:alpha(opacity=40); opacity:0.4;}
+#goldcard-introduction .prev{background-position:0px 0px; left:0px;}
+#goldcard-introduction .next{background-position:0px -37px; right:0px;}
+
+#multimonth{border:1px solid #e5e5e5;width:380px;background:#fff;padding:5px;}
+#multimonth .dp-applied{float:left;overflow:hidden;}
+#multimonth .dp-applied .dp-popup,
+#multimonth .dp-calendar .jCalendar{border:0;}
+#multimonth .dpRight{margin-left:-2px;}
+#multimonth .dpLeft .dp-calendar{padding-right:6px;border-right:2px solid #e5e5e5;}
+#multimonth .dpRight .dp-calendar{padding-left:6px;border-left:2px solid #e5e5e5;}
+#multimonth .dp-applied .dp-calendar{padding-top:5px;}
+#multimonth .dp-applied .dp-calendar .jCalendar th{background-color:#ececec;}
+#multimonth .dp-applied .dp-calendar .jCalendar th.weekend{color:#f90;}
+#multimonth .dp-applied .dp-calendar .jCalendar td.other-month{visibility:hidden;}
+#multimonth .dp-applied .dp-popup{padding:0;width:190px;}
+#multimonth .dp-applied .dp-popup a{padding:0 2px;}
+#multimonth .dp-applied .dp-popup h2{background-color:#004fb8;line-height:26px;color:#fff;}
+#multimonth .dp-applied .dp-popup .dp-nav-prev a,
+#multimonth .dp-applied .dp-popup .dp-nav-next a{font-family:"\5b8b\4f53",Tahoma, Arial, Helvetica, STHeiti;color:#fff;}
+#multimonth .dp-applied .dp-popup .dp-nav-prev .dp-nav-prev-month,
+#multimonth .dp-applied .dp-popup .dp-nav-next .dp-nav-next-month{padding:0;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/button_calendar_month.png);width:21px;height:21px;text-indent:-1000em;overflow:hidden;}
+#multimonth .dp-applied .dp-popup .dp-nav-prev .dp-nav-prev-month{background-position:0 0;}
+#multimonth .dp-applied .dp-popup .dp-nav-next .dp-nav-next-month{background-position:right 0;}
+#multimonth .dp-applied .dp-popup .dp-nav-prev .dp-nav-prev-year,
+#multimonth .dp-applied .dp-popup .dp-nav-next .dp-nav-next-year{display:none;}
+#multimonth .dp-calendar .jCalendar td{border:1px solid #fff;}
+#multimonth .dp-calendar .jCalendar td.current-month{font-weight:bold;color:#005ead;}
+#multimonth .dp-calendar .jCalendar td.disabled{color:gray;}
+#multimonth .dp-calendar .jCalendar td.selected{color:#fff;background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/calendar_current.png) center center no-repeat;}
+
+.dialog_renewal_upgrade{}
+.dialog_renewal_upgrade table.price-list{width:360px;margin:0 auto;background-color:#f3f3f3;}
+.dialog_renewal_upgrade table.price-list tr td{border:1px solid #fff;padding:2px;text-align:center;}
+.dialog_renewal_upgrade table.price-list tr.elite{background-color:#dbe8f4;height:60px;}
+.dialog_renewal_upgrade table.price-list tr td.intro{background:#c59d58;font-weight:bold;color:#fff;text-align:left;text-indent:0.5em;}
+.dialog_renewal_upgrade table.price-list tr td.elite{background-image:url(http://pic.liepin.com/images/v8/cadidate/goldcard/price_list_elite.png);background-position:right bottom;background-repeat:no-repeat;}
+.dialog_renewal_upgrade table.price-list tr td.consult{background-color:#fdd;}
+
+#consult{}
+#consult .progress{margin-bottom:20px;}
+#consult .progress ul{*zoom:1;}
+#consult .progress ul:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#consult .progress ul li{width:320px;background-color:#e4e4e4;text-align:center;font-size:14px;line-height:31px;float:left;position:relative;}
+#consult .progress ul li.current{background-color:#f90;color:#fff;}
+#consult .progress ul li em{position:absolute;left:-16px;top:0;width:32px;height:31px;background:url(http://pic.liepin.com/images/v8/icons/arrow_progress.png) no-repeat;}
+#consult .consult-pay .demo{float:left;}
+#consult .consult-pay .demo .preview{margin:40px 0;text-align:center;}
+#consult .consult-pay .help{margin-top:20px;font-size:14px;}
+#consult .consult-pay .help a{background:url(http://pic.liepin.com/images/v8/icons/icon_help_05.png) left center no-repeat;padding:2px 0 2px 20px;}
+#consult .consult-pay .pay-form{float:right;font-size:14px;padding:10px 40px 0 40px;}
+#consult .consult-pay .pay-form a.gold-card{background:url(http://pic.liepin.com/images/v8/icons/icon_gold_01.png) left center no-repeat;padding-left:20px;}
+#consult .consult-pay .pay-form h2{font-family:"Microsoft YaHei";line-height:30px;white-space:nowrap;}
+#consult .consult-pay .pay-form h2 span{font-size:30px;color:#c59d58;font-weight:normal;}
+#consult .consult-pay .pay-form table.price-list{width:360px;margin:30px auto;background-color:#f3f3f3;font-size:12px;}
+#consult .consult-pay .pay-form table.price-list tr.elite{background-color:#dbe8f4;height:60px;}
+#consult .consult-pay .pay-form table.price-list tr td{border:1px solid #fff;padding:2px;text-align:center;}
+#consult .consult-pay .pay-form table.price-list tr td.elite{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/price_list_elite.png) right bottom no-repeat;}
+#consult .consult-pay .pay-form table.price-list tr td.intro{background-color:#c59d58;color:#fff;font-weight:bold;text-align:left;text-indent:0.5em;}
+#consult .consult-pay .pay-form .tips{text-align:right;}
+#consult .consult-pay .pay-form .buttons{text-align:center;margin-top:30px;}
+#consult .consult-pay .pay-form .buttons input.update{background:url(http://pic.liepin.com/images/v8/cadidate/goldcard/btn_update.png) 0 -112px no-repeat;border:0;cursor:pointer;height:55px;width:246px;}
+#consult .title{background:#f6f6f6;padding:20px;margin:10px 0;font-size:14px;font-family:"Microsoft YaHei";}
+#consult .title .large{font-size:24px;margin:0 4px;}
+#consult .title .buttons{float:right;}
+#consult .title .buttons a.btn-3d-large{margin:0 5px;}
+#consult .search-bar{margin:20px 0;position:relative;}
+#consult .search-bar ul{*zoom:1;margin:0 auto;}
+#consult .search-bar ul:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#consult .search-bar ul li{float:left;display:inline;margin:0 5px;}
+#consult .search-bar ul li .input-text{margin:0 4px;}
+#consult .search-bar ul li .datepicker{width:80px;}
+#consult .detail{}
+#consult .detail table.detail-list{width:100%;border-bottom:1px solid #ddd;}
+#consult .detail table.detail-list tr th,
+#consult .detail table.detail-list tr td{text-align:center;padding:5px 0;}
+#consult .detail table.detail-list th{background:#f2f2f2;}
+#consult .detail table.detail-list tr{border-top:1px solid #ddd;}
+#consult .detail table.detail-list tr.drop{border:0;}
+#consult .detail table.detail-list tr.drop td{padding-left:4%;text-align:left;background:#f6f6f6;}
+#consult .detail table.detail-list tr.drop td label{margin:0 10px;}
+#consult .detail table.detail-list tr.drop td .apprise-result{margin-left:10px;}
+#consult .detail .pager{margin:20px 0;}
+#consult .detail .pager .record-count{float:left;}
+
+#jobs-finder{}
+#jobs-finder .apply-history .apply-list ul li,
+#jobs-finder .apply-history .apply-list ul li .user-info dl{*zoom:1;}
+#jobs-finder .apply-history .apply-list ul li:after,
+#jobs-finder .apply-history .apply-list ul li .user-info dl:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#jobs-finder .apply-history{}
+#jobs-finder .apply-history .title{background:#eee;padding:0 15px;line-height:35px;border-bottom:1px solid #ddd;}
+#jobs-finder .apply-history .title .filter{float:right;padding:5px 0;line-height:25px;}
+#jobs-finder .apply-history .title .filter .select{vertical-align:middle;}
+#jobs-finder .apply-history .title .summary{}
+#jobs-finder .apply-history .title .summary .count{color:#e75c00;padding:0 2px;}
+#jobs-finder .apply-history .title .summary a{margin-left:10px;}
+#jobs-finder .apply-history .apply-list{}
+#jobs-finder .apply-history .apply-list ul{}
+#jobs-finder .apply-history .apply-list ul li{padding:20px 5px;border-bottom:1px dotted #ccc;*zoom:1;}
+#jobs-finder .apply-history .apply-list ul li:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+#jobs-finder .apply-history .apply-list ul li.odd{background-color:#f9f9f9;}
+#jobs-finder .apply-history .apply-list ul li .job-detail,
+#jobs-finder .apply-history .apply-list ul li .salary,
+#jobs-finder .apply-history .apply-list ul li .user-info{float:left;}
+#jobs-finder .apply-history .apply-list ul li .status{margin-left:800px;padding-top:30px;text-align:center;}
+#jobs-finder .apply-history .apply-list ul li .job-detail{width:310px;}
+#jobs-finder .apply-history .apply-list ul li .salary{width:175px;padding-top:20px;font-family:'Microsoft YaHei';font-size:20px;color:#e75c00;}
+#jobs-finder .apply-history .apply-list ul li .user-info{width:290px;padding:0 10px;border-left:1px dotted #ddd;border-right:1px dotted #ddd;}
+#jobs-finder .apply-history .apply-list ul li .job-detail .job-title{font-family:'Microsoft YaHei';font-size:20px;}
+#jobs-finder .apply-history .apply-list ul li .job-detail .timestamp,
+#jobs-finder .apply-history .apply-list ul li .status .timestamp{color:gray;}
+#jobs-finder .apply-history .apply-list ul li .user-info dl dt{float:left;}
+#jobs-finder .apply-history .apply-list ul li .user-info dl dd{margin-left:65px;}
+#jobs-finder .apply-history .apply-list ul li .user-info dl dd a.link-ui{margin-left:5px;}
+#jobs-finder .apply-history .apply-list .pager{margin:20px 0;}
